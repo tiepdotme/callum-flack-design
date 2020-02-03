@@ -12,7 +12,7 @@ tags:
   - công nhân
   - thái bình
 ---
-
+<Media ratio="708/1500" image="/images/bongthaibinh.jpg" />
 Thông tin tuyển dụng nhanh
 Kinh nghiệm: 3 năm
 
@@ -59,7 +59,13 @@ Ngôn ngữ hồ sơ:Tiếng Việt
 
 <!-- @[MarkdownNote](note="These projects are not publicly available. Completed in collaboration with Grant Foster, Jason Armstrong, Jonathan Palasty, Cynthia Sánchez García and Antonio de Perio while working for Ward6.") -->
 
-Nội dung được kdo chép lại cho ae công nhân tìm việc làm {.Note}
+Việc làm mới nhất cập nhật bởi Kdo^1^, hỗ trợ thông tin công việc mới nhất cho người tỉnh Thái Bình^2^.
+
+---
+
+1. Nội dung được kdo chép lại cho ae công nhân tìm việc làm, Kdo là tên viết tắt của Tiếp adsense {.Note}
+
+2. Do các thành viên của kdo đều sinh sống làm việc tại Thái Bình nên chúng tôi ưu tiên cập nhật nội dung công việc mới nhất trong tỉnh. {.Note}
 
 <script>
 import Media from "../../src/components/Media";
