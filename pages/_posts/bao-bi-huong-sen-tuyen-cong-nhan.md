@@ -7,9 +7,9 @@ lede: Nhận lệnh và vận hành máy sản xuất.
 assets:
   cover: /images/baobihuongsen.jpg
 tags:
-  - tương lai
-  - dự định
-  - kế hoạch
+  - việc làm
+  - công nhân
+  - thái bình
 ---
 
 MÔ TẢ CÔNG VIỆC
