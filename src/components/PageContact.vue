@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="Heading Heading-4xl font-medium">Callum Flack Design</h2>
+    <h2 class="Heading Heading-4xl font-medium">Tiếp adsense</h2>
     <p class="Space-t mb-2px">{{ about }}</p>
     <p class="Text Link mb-2px">
       <a :href="`mailto:${contact.email}`">
@@ -19,7 +19,7 @@
       <FormNewsletter></FormNewsletter>
     </div>
     <p class="Text-xs text-gray-dark">
-      © Callum Flack Design 2015–{{ new Date().getFullYear() }}
+      © Tiếp adsense 2015–{{ new Date().getFullYear() }}
     </p>
   </div>
 </template>
@@ -33,11 +33,11 @@ export default {
   },
   props: {},
   data: () => ({
-    about: "To discuss new projects, contact Callum:",
-    signup: "Keep in touch. Subscribe to new work updates:",
+    about: "Để liên lạc với Tiếp:",
+    signup: "Để làm việc lâu dài và nhận giá ưu đãi:",
     contact: {
-      email: "callum@callumflack.design",
-      phone: "408 767 540",
+      email: "tiep@kadao.me",
+      phone: "0702227255",
     },
   }),
 };
