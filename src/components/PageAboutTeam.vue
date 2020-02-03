@@ -30,11 +30,11 @@
           </li>
           <li>
             <a
-              :href="`https://github.com/${tiep.contacts.github}`"
+              :href="`https://facebook.com/${tiep.contacts.facebook}`"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Tiếp trên Github
+              Tiếp trên Facebook
             </a>
           </li>
         </ul>
@@ -56,11 +56,11 @@
           </li>
           <li>
             <a
-              :href="`https://github.com/${linh.contacts.github}`"
+              :href="`https://facebook.com/${linh.contacts.facebook}`"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Linh trên Github
+              Linh trên Facebook
             </a>
           </li>
         </ul>
@@ -87,7 +87,7 @@ export default {
         email: "tiep@kadao.me",
         phone: "0702227255",
         linkedin: "dekadao",
-        github: "dekadao",
+        facebook: "tiepoidungso",
       },
     },
     linh: {
@@ -98,7 +98,7 @@ export default {
         "Là một người bạn đồng hành đáng tin cậy, và xứng đáng để kết bạn.",
       contacts: {
         email: "linh@kadao.me",
-        github: "linhkadao",
+        facebook: "linhkadao",
       },
     },
   }),
