@@ -4,7 +4,7 @@ layout: page
 title: mình chuyên bán tài khoản adsense chưa pin, đã pin, pay
 pageTitle: mua bán tài khoản adsense
 # lede: Callum Flack Design is fluid across graphic design, information design and frontend development. Because the quality of the connections crystalises the quality of the whole.
-lede: We're a tiny, fast team fluid across graphic design, user interface design, frontend development and backend management. Everything you need to create beautifully designed hypertext products, but without the overhead.
+lede: đặt mã quảng cáo adsense trên trang web có nhiều lượt traffic sẽ đem lại doanh thu khá cao, và là công việc chúng ta có thể làm tại nhà online miễn bạn sở hữu một trang web chất lượng, vì thế đây sẽ là bước đệm cho con đường tài chính của gia đình mình khi có thể chủ động làm được bất kỳ lúc nào.
 # injectAllPosts: true
 pageClass: page-reverse
 ---
