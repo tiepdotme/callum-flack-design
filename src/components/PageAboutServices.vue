@@ -21,9 +21,9 @@
 export default {
   data: () => ({
     design: {
-      title: "Design",
+      title: "Thanh toán chuyển khoản",
       lede:
-        "Bọn mình chỉ sử dụng duy nhất tài khoản ngân hàng mở tại Vietcombank thông tin thanh toán chi tiết bên dưới.",
+        "mình chỉ sử dụng duy nhất tài khoản ngân hàng mở tại Vietcombank thông tin thanh toán chi tiết bên dưới.",
       /* Designed to work, without losing the sense of ease that good craft delivers. */
       items: [
         "Phạm Xuân Tiếp",
