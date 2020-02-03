@@ -9,7 +9,7 @@
       </a>
     </p>
     <p class="Text Link">
-      <a :href="`tel:0${contact.phone.replace(/ /g, '-')}`">
+      <a :href="`tel:${contact.phone.replace(/ /g, '-')}`">
         <span class="Text-contact-type">T: </span>
         <span>+84(0) {{ contact.phone }}</span>
       </a>
