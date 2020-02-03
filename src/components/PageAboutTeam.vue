@@ -15,8 +15,8 @@
             </a>
           </li>
           <li>
-            <a :href="`tel:0${tiep.contacts.phone.replace(/ /g, '-')}`">
-              Call: +84(0) {{ tiep.contacts.phone }}
+            <a :href="`tel:${tiep.contacts.phone.replace(/ /g, '-')}`">
+              Call: +84 {{ tiep.contacts.phone }}
             </a>
           </li>
           <li>
