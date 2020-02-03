@@ -32,14 +32,16 @@ export default {
       ],
     },
     dev: {
-      title: "Development",
+      title: "Công việc làm",
       lede:
-        "Our focus is the web. We use modern tools to build performant, secure sites that are easy to iterate. We design in code to prototype how products feel.",
+        "tập trung vào việc phát triển web và nội dung đăng ký tài khoản adsense, chạy traffic tăng thứ hạng, và tăng lượt click quảng cáo.",
       items: [
-        "Frontend web development",
-        "API creation and integration",
-        "Serverless functions",
-        "Backend managment",
+        "Làm web",
+        "Viết nội dung content",
+        "Xây dựng đơn đăng ký",
+        "Tài khoản chưa pin",
+        "Tài khoản đã pin",
+        "Tài khoản pay",
       ],
     },
   }),
