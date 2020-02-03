@@ -50,7 +50,7 @@
         <p v-html="linh.lede"></p>
         <ul class="Text-sm">
           <li class="mb-0">
-            <a :href="`mailto:${barry.contacts.email}`">
+            <a :href="`mailto:${linh.contacts.email}`">
               Email: {{ linh.contacts.email }}
             </a>
           </li>
