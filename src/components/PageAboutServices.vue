@@ -23,13 +23,12 @@ export default {
     design: {
       title: "Design",
       lede:
-        "We design with the grain of the web. We're well versed in the constraints, and the opportunities. We make the complex simple, and the simple unique.",
+        "Bọn mình chỉ sử dụng duy nhất tài khoản ngân hàng mở tại Vietcombank thông tin thanh toán chi tiết bên dưới.",
       /* Designed to work, without losing the sense of ease that good craft delivers. */
       items: [
-        "User experience",
-        "Interface design",
-        "Graphic design",
-        "Identity design",
+        "Phạm Xuân Tiếp",
+        "0281000538644",
+        "Ngân hàng Vietcombank",
       ],
     },
     dev: {
