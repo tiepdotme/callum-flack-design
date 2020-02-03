@@ -21,7 +21,7 @@ Understanding the quality of the connections that bridge design and code is the 
 
 <div class="grid grid-columns-4 grid-gap-8">
   <div class="col-span-1 Block-sm-b">
-    <Media ratio="1994/2880" image="/images/cf-dwts-DB30312-recut.jpg" />
+    <Media ratio="1994/2880" image="/images/tiep.jpg" />
   </div>
 </div>
 
