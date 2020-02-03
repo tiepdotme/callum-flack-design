@@ -4,13 +4,13 @@
     <p class="Space-t mb-2px">{{ about }}</p>
     <p class="Text Link mb-2px">
       <a :href="`mailto:${contact.email}`">
-        <span class="Text-contact-type">E: </span>
+        <span class="Text-contact-type">địa chỉ email: </span>
         <span>{{ contact.email }}</span>
       </a>
     </p>
     <p class="Text Link">
       <a :href="`tel:0${contact.phone.replace(/ /g, '-')}`">
-        <span class="Text-contact-type">T: </span>
+        <span class="Text-contact-type">điện thoại: </span>
         <span>+84(0) {{ contact.phone }}</span>
       </a>
     </p>
