@@ -19,7 +19,7 @@
       <FormNewsletter></FormNewsletter>
     </div>
     <p class="Text-xs text-gray-dark">
-      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay {{ new Date().getFullYear() }}. Facebook cá nhân Fb.com/tiepoidungso
+      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay {{ new Date().getFullYear() }}. Facebook cá nhân <a href="https://facebook.com/tiepoidungso">Fb.com/tiepoidungso</a>
     </p>
   </div>
 </template>
@@ -33,8 +33,8 @@ export default {
   },
   props: {},
   data: () => ({
-    about: "Để liên lạc với Tiếp:",
-    signup: "Để làm việc lâu dài và nhận giá ưu đãi:",
+    about: "Để liên lạc với Tiếp nhanh chóng hãy gọi điện thoại:",
+    signup: "Để kết bạn, chơi với nhau lâu dài và nhận giá ưu đãi đăng ký:",
     contact: {
       email: "tiep@kadao.me",
       phone: "0702227255",
