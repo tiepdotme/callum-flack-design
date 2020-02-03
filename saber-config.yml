@@ -1,16 +1,16 @@
 theme: ./src
 
 siteConfig:
-  title: Callum Flack Design
-  url: https://callumflack.design
-  author: Callum Flack
-  email: callum@callumflack.design
-  phone: +61(0) 408 767 540
-  description: Callum Flack is a designer who codes. Fluid across visual design, user experience and code, he also writes about creativity and attention • Cairns, Australia
-  keywords: Portfolio,Blog,Web,Design,Graphic Design,User Exerience Design,Interaction Design,CSS,JavaScript,Frontend Web Development
+  title: Phạm Tiếp AdSense
+  url: https://kadao.me
+  author: Phạm Xuân Tiếp
+  email: tiep@kadao.me
+  phone: +84 0702227255
+  description: Đây là trang giới thiệu sản phẩm tài khoản adsense của phạm xuân tiếp thái bình
+  keywords: adsense acc, tài khoản gg adsense, mua bán adsense
   social:
-    twitter: callumflack
-    github: callumflack
+    twitter: kadaome
+    github: kadaome
 
 themeConfig:
   nav:
