@@ -32,7 +32,7 @@
           {{ page.lede }}
           <template v-if="$route.path === '/'">
             <saber-link to="/about" class="Link text-brand-red">
-              Learn more &#8594;
+              Mua ngay &#8594;
             </saber-link>
           </template>
         </p>
