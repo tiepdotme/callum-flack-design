@@ -41,7 +41,7 @@ Ngành nghề:
 ## Yêu cầu công việc
 - Yêu cầu: Tốt nghiệp từ Phổ Thông CS, có sức khỏe tốt, trung thực, nhanh nhẹn, có trách nhiệm, giao tiếp tốt, biết quan sát công việc. Tuổi từ 18-45, không vi phạm pháp luật và tệ nạn xã hội
 Yêu cầu hồ sơ
-+ Hồ sơ bao gồm: Sơ yếu lý lịch, Đơn xin việc viết tay, Giấy khám sức khỏe, Giấy chứng nhận không vi phạm pháp luật, 2 ảnh 4x6 mới nhất, Photo công chứng: Giấy khai sinh, CMND, Bằng cấp, Sổ hộ khẩu
+- Hồ sơ bao gồm: Sơ yếu lý lịch, Đơn xin việc viết tay, Giấy khám sức khỏe, Giấy chứng nhận không vi phạm pháp luật, 2 ảnh 4x6 mới nhất, Photo công chứng: Giấy khai sinh, CMND, Bằng cấp, Sổ hộ khẩu
 
 ## Thông tin liên hệ
 
