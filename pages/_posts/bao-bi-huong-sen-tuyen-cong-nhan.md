@@ -4,6 +4,7 @@ category: projects
 date: 2020-02-03
 title: Công ty bao bì hương sen thái bình tuyển công nhân
 lede: Nhận lệnh và vận hành máy sản xuất.
+readingTime: 8
 assets:
   cover: /images/baobihuongsen.jpg
 tags:
