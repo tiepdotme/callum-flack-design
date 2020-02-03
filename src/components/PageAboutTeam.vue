@@ -78,27 +78,27 @@ export default {
   },
   data: () => ({
     callum: {
-      name: "Callum Flack",
-      title: "Design, Frontend, Project Management",
+      name: "Phạm Tiếp",
+      title: "Bán hàng, tạo tài khoản, bảo hành",
       portrait: "/images/tiep.jpg",
       lede:
-        "Since starting out in 2000, Callum has worked in London, Melbourne, Sydney and Brisbane, for design studios, advertising agencies and tech startups. Since 2015, Callum and his family have lived in <a href='https://www.instagram.com/p/B6NQntepU-c' target='_blank' rel='noopener noreferrer'>Cairns, Australia</a>. Before teaching himself to code websites starting in 2010, his career highlight was working as a brand designer at Saatchi & Saatchi Design, London in 2006. Callum has also run <a href='https://www.discogs.com/artist/2452856-Callum-Flack' target='_blank' rel='noopener noreferrer'>a few vinyl record labels in past years.</a>",
+        "Tiếp đã dành trọn cuộc sống của mình để tìm kiếm cái đẹp và tạo ra sản phẩm có giá trị, kể từ năm 2006 đã có duyên gắn bó với nghề và đi lên bằng bán tài khoản download, sau này khi PTU đi xuống, mình chuyển hướng sang adsense và đạt được một số thành công nhất định, mình hy vọng mình có thể tạo ra nhiều sản phẩm hơn để phục vụ mọi người chu đáo cho công việc quảng cáo online trực tuyến thông qua web và ứng dụng.",
       contacts: {
-        email: "callum@callumflack.design",
+        email: "tiep@kadao.me",
         phone: "408 767 540",
-        linkedin: "callumflack",
-        github: "callumflack",
+        linkedin: "dekadao",
+        github: "dekadao",
       },
     },
     barry: {
-      name: "Barry Phillip Hall",
-      title: "Frontend, Backend",
-      portrait: "/images/bph.jpg",
+      name: "Linh",
+      title: "Backend",
+      portrait: "/images/linh.jpg",
       lede:
-        "Curious from the outset, continually learning to keep apace with the ongoing web tech revolutions, Barry is proficient with Vue.js, React.js and Node.js. He recently singlehandedly engineered a custom portal for handling large scale product distribution at Rachio Inc, proving his capacity for diligent problem-solving. As expected, he's a dab hand with other technologies like PHP, Wordpress, SQL and Python. Barry is also a drummer.",
+        "Là một người bạn đồng hành đáng tin cậy, và xứng đáng để kết bạn.",
       contacts: {
-        email: "barry@callumflack.design",
-        github: "barryph",
+        email: "linh@kadao.me",
+        github: "linhkadao",
       },
     },
   }),
