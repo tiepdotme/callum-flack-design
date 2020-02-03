@@ -29,7 +29,7 @@
         <h3 class="Text-lg font-medium w-3/4 hu:7/12">{{ post.title }}</h3>
         <div class="Text-lg font-light">
           <span class="Card-title-action font-medium">
-            {{ type === "saber-link" ? "Read " : "Open " }}
+            {{ type === "saber-link" ? "Đọc " : "Mở " }}
           </span>
           <span class="Card-title-arrow">
             {{ type === "saber-link" ? "&#8594;" : "&#8599;" }}
