@@ -26,7 +26,7 @@
     </div>
     <div class="Text-sm Text--align frame-area-c">
       <span class="Row-action">
-        {{ type === "saber-link" ? "Read " : "Open " }}
+        {{ type === "saber-link" ? "Đọc " : "Mở " }}
       </span>
       <span class="Row-arrow inline-block ml-2">
         {{ type === "saber-link" ? "&#8594;" : "&#8599;" }}
