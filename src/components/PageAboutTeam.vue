@@ -2,39 +2,39 @@
   <div class="AboutTeam frame frame--columns Block-sm-t">
     <div class="grid-area-a">
       <div class="md:w-1/2 lg:w-6/12 Space">
-        <ImageDynamic ratio="12/10" :src="callum.portrait" />
+        <ImageDynamic ratio="12/10" :src="tiep.portrait" />
       </div>
       <div class="text-gray-dark">
-        <h2>{{ callum.name }}</h2>
-        <h3>{{ callum.title }}</h3>
-        <p v-html="callum.lede"></p>
+        <h2>{{ tiep.name }}</h2>
+        <h3>{{ tiep.title }}</h3>
+        <p v-html="tiep.lede"></p>
         <ul class="Text-sm">
           <li class="mb-0">
-            <a :href="`mailto:${callum.contacts.email}`">
-              Email: {{ callum.contacts.email }}
+            <a :href="`mailto:${tiep.contacts.email}`">
+              Email: {{ tiep.contacts.email }}
             </a>
           </li>
           <li>
-            <a :href="`tel:0${callum.contacts.phone.replace(/ /g, '-')}`">
-              Call: +84(0) {{ callum.contacts.phone }}
-            </a>
-          </li>
-          <li>
-            <a
-              :href="`www.linkedin.com/in/${callum.contacts.linkedin}`"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Callum on Linkedin
+            <a :href="`tel:0${tiep.contacts.phone.replace(/ /g, '-')}`">
+              Call: +84(0) {{ tiep.contacts.phone }}
             </a>
           </li>
           <li>
             <a
-              :href="`https://github.com/${callum.contacts.github}`"
+              :href="`www.linkedin.com/in/${tiep.contacts.linkedin}`"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Callum on Github
+              Tiếp trên Linkedin
+            </a>
+          </li>
+          <li>
+            <a
+              :href="`https://github.com/${tiep.contacts.github}`"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Tiếp trên Github
             </a>
           </li>
         </ul>
@@ -42,25 +42,25 @@
     </div>
     <div class="grid-area-b">
       <div class="md:w-1/2 lg:w-6/12 Space">
-        <ImageDynamic ratio="12/10" :src="barry.portrait" />
+        <ImageDynamic ratio="12/10" :src="linh.portrait" />
       </div>
       <div class="text-gray-dark">
-        <h2>{{ barry.name }}</h2>
-        <h3>{{ barry.title }}</h3>
-        <p v-html="barry.lede"></p>
+        <h2>{{ linh.name }}</h2>
+        <h3>{{ linh.title }}</h3>
+        <p v-html="linh.lede"></p>
         <ul class="Text-sm">
           <li class="mb-0">
             <a :href="`mailto:${barry.contacts.email}`">
-              Email: {{ barry.contacts.email }}
+              Email: {{ linh.contacts.email }}
             </a>
           </li>
           <li>
             <a
-              :href="`https://github.com/${barry.contacts.github}`"
+              :href="`https://github.com/${linh.contacts.github}`"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Barry on Github
+              Linh trên Github
             </a>
           </li>
         </ul>
@@ -90,7 +90,7 @@ export default {
         github: "dekadao",
       },
     },
-    barry: {
+    linh: {
       name: "Linh",
       title: "Backend",
       portrait: "/images/linh.jpg",
