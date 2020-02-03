@@ -7,6 +7,11 @@ lede: Nhận lệnh và vận hành máy sản xuất Công Nhân Làm Nhà Máy
 readingTime: 8
 assets:
   cover: /images/bongthaibinh.jpg
+hero:
+  showCover: true
+  titleInvert: true
+  imageBlend: 0.6
+  ratio: 9/16
 tags:
   - việc làm
   - công nhân
