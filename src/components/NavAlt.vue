@@ -3,7 +3,7 @@
     <nav class="flex justify-between px-12">
       <saber-link class="Nav-link Title" rel="author" to="/" exact>
         <!-- <span class="Logo-arrow mr-1">&#8592;</span> -->
-        <span style="text-transform:initial">CFd</span>
+        <span style="text-transform:initial">Kdo</span>
       </saber-link>
       <saber-link v-if="$route.path !== '/'" class="Nav-link Title" to="/" exact>
         <span class="Logo-arrow mr-1">&#215;</span>

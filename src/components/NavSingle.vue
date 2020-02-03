@@ -3,7 +3,7 @@
     <nav class="container container--list">
       <saber-link class="Nav-link w-full" rel="author" to="/" exact>
         <!-- <span v-if="$route.path !== '/'" class="Logo-arrow mr-1">&#8592;</span> -->
-        <span style="text-transform:initial">CFd</span>
+        <span style="text-transform:initial">Kdo</span>
       </saber-link>
     </nav>
   </headroom>

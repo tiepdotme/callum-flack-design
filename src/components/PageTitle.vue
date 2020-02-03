@@ -10,11 +10,11 @@
       >
         <!-- v-smooth-scroll="{ duration: 1000 }" -->
         <a v-if="$route.path === '/'" href="#top">
-          CFd
+          Kdo
         </a>
         <saber-link v-else to="/">
           <!-- &#8592; -->
-          CFd
+          Kdo
         </saber-link>
       </nav>
       <div class="frame-area-b">

@@ -7,7 +7,7 @@
       </template>
       <template v-else>
         <span class="Logo-arrow mr-1">&#8592;</span>
-        <span style="text-transform:initial">CFd</span>
+        <span style="text-transform:initial">Kdo</span>
       </template>
     </saber-link>
     <a

@@ -6,7 +6,7 @@
         <p class="s-2h Link">
           Ps.
           <template v-if="$route.path !== '/about'">
-            You're on <saber-link to="/about">Callum Flack's website.</saber-link> He
+            bạn đang tới thăm <saber-link to="/about">Tiếp adsense website.</saber-link> He
           </template>
           <template v-else>
             Callum
@@ -19,8 +19,8 @@
       </div>
     </div> -->
     <span class="inline-block mr-1 mb-px">&#8592;</span>
-    <!-- <span style="text-transform:initial">CALLUM FLACK dESIGN</span> -->
-    <span style="text-transform:initial">CFd</span>
+    <!-- <span style="text-transform:initial">Tiếp Adsense</span> -->
+    <span style="text-transform:initial">Kdo</span>
   </saber-link>
 </template>
 

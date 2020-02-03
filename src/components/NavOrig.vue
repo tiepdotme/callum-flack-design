@@ -19,7 +19,7 @@
         <template v-if="$route.path !== '/'">
           <span class="Logo-arrow mr-1">&#8592;</span>
         </template>
-        <span style="text-transform:initial">CFd</span>
+        <span style="text-transform:initial">Kdo</span>
       </saber-link>
     </nav>
   </headroom>
