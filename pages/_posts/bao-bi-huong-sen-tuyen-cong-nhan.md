@@ -1,0 +1,60 @@
+---
+layout: post
+category: projects
+date: 2020-02-03
+title: Công ty bao bì hương sen thái bình tuyển công nhân
+lede: Nhận lệnh và vận hành máy sản xuất.
+assets:
+  cover: /images/baobihuongsen.jpg
+tags:
+  - tương lai
+  - dự định
+  - kế hoạch
+---
+
+MÔ TẢ CÔNG VIỆC
+- Nhận lệnh và vận hành máy sản xuất
+QUYỀN LỢI ĐƯỢC HƯỞNG
+
+- Người lao động hưởng chế độ: Phụ cấp ca 03; phụ cấp xăng xe, chuyên cần, thưởng thi đua quý, quà các ngày Lễ tết trong năm. Tham gia đóng BHXH, BHYT, BHTN, hưởng tiền lễ phép, lương tháng 13…
+- Tổng mức lương thu nhập tuyển dụng chính thức từ 5.000.000 đồng- 10.000.000 đồng.
+
+
+
+YÊU CẦU CÔNG VIỆC
+
+- Yêu cầu trình độ chuyên môn kỹ thuật:  Không
+- Yêu cầu ngành nghề : Các chuyên ngành
+
+- Nhanh nhẹn , trung thực
+
+YÊU CẦU HỒ SƠ
+
+- Đơn xin việc.
+- Sơ yếu lí lịch dán ảnh có xác nhận của địa phương;
+- Chứng minh thư nhân dân; Sổ hộ khẩu; Giấy khai sinh photo công chứng.
+- Giấy khám sức khỏe bản A3, thời hạn không quá 6 tháng
+- Pho to công chứng các văn bằng có liên quan.
+- 4 ảnh 3*4 ; 4 ảnh 4*6
+THÔNG TIN THÊM
+Công ty TNHH Bao bì Hương Sen
+Đường Nguyễn Doãn Cừ; Lô B2; KCN Nguyễn Đức Cảnh; Thành phố Thái Bình; Tỉnh Thái Bình
+Người liên hệ: Phòng nhân sự
+Điện thoại: 02273.645.438/ 0363.622.662
+
+<!-- @[MarkdownNote](note="These projects are not publicly available. Completed in collaboration with Grant Foster, Jason Armstrong, Jonathan Palasty, Cynthia Sánchez García and Antonio de Perio while working for Ward6.") -->
+
+Nội dung được kdo chép lại cho ae công nhân tìm việc làm {.Note}
+
+<script>
+import Media from "../../src/components/Media";
+import MediaVideo from "../../src/components/MediaVideo";
+import PostButton from "../../src/components/PostButton";
+export default {
+  components: {
+    Media,
+    MediaVideo,
+    PostButton,
+  }
+}
+</script>
