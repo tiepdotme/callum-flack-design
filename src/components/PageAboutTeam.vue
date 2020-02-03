@@ -77,7 +77,7 @@ export default {
     ImageDynamic,
   },
   data: () => ({
-    callum: {
+    tiep: {
       name: "Phạm Tiếp",
       title: "Bán hàng, tạo tài khoản, bảo hành",
       portrait: "/images/tiep.jpg",
