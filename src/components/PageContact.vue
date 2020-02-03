@@ -19,7 +19,7 @@
       <FormNewsletter></FormNewsletter>
     </div>
     <p class="Text-xs text-gray-dark">
-      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay {{ new Date().getFullYear() }}. Facebook cá nhân <a href="https://facebook.com/tiepoidungso">Fb.com/tiepoidungso</a>
+      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Facebook cá nhân <a href="https://facebook.com/tiepoidungso">Fb.com/tiepoidungso</a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn.
     </p>
   </div>
 </template>
