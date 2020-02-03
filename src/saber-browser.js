@@ -23,21 +23,21 @@ export default ({ setHead }) => {
     meta: [
       {
         name: "google-site-verification",
-        content: "HN9v-wB-PoQjHk1CGpr5YVG9VUNrcOaOjHACfG3SSSI",
+        content: "codegoeshere",
       },
       {
         // pinterest
         name: "p:domain_verify",
-        content: "8280c00ce54aef1d74f05dc38cd9fb91",
+        content: "codegoeshere",
       },
       // Twitter card
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@callumflack" },
+      { name: "twitter:site", content: "@dekadao" },
       {
         name: "twitter:image",
-        content: "https://avatars2.githubusercontent.com/u/749885?s=460&v=4",
+        content: "https://avatars2.githubusercontent.com/u/50001808?s=460&v=4",
       },
-      { name: "twitter:image:alt", content: "Callum Flack" },
+      { name: "twitter:image:alt", content: "Tiep Pham" },
     ],
     // favicon
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
