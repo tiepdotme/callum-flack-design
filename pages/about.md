@@ -15,7 +15,7 @@ pageClass: page-reverse
 
 # Đội ngũ làm việc tạo adsense của chúng tôi
 
-We believe the quality of the connections between design and code is the key to creating seamless interfaces. We can help you design a digital brand, its user experience and information structure. And we can build it too. {.Text-xl .text-gray-dark .mb-0 .hu:w-5/6 .su:w-full}
+Chúng tôi là những người chân thật, sống tình cảm và có thói quen thân thiện với tất cả mọi người, mong muốn sản phẩm của chính mình tạo ra được mọi người thừa nhận, cổ vũ và ủng hộ cho chúng tôi. {.Text-xl .text-gray-dark .mb-0 .hu:w-5/6 .su:w-full}
 
 <!-- The difference isn't obvious until it is. -->
 
