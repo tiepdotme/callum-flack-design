@@ -11,7 +11,7 @@
     <p class="Text Link">
       <a :href="`tel:0${contact.phone.replace(/ /g, '-')}`">
         <span class="Text-contact-type">T: </span>
-        <span>+61(0) {{ contact.phone }}</span>
+        <span>+84(0) {{ contact.phone }}</span>
       </a>
     </p>
     <div class="Space-y">
@@ -19,7 +19,7 @@
       <FormNewsletter></FormNewsletter>
     </div>
     <p class="Text-xs text-gray-dark">
-      © Tiếp adsense 2015–{{ new Date().getFullYear() }}
+      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay {{ new Date().getFullYear() }}. Facebook cá nhân Fb.com/tiepoidungso
     </p>
   </div>
 </template>
