@@ -7,6 +7,11 @@ lede: Nhận lệnh và vận hành máy sản xuất.
 readingTime: 8
 assets:
   cover: /images/baobihuongsen.jpg
+hero:
+  showCover: true
+  titleInvert: true
+  imageBlend: 0.6
+  ratio: 9/16
 tags:
   - việc làm
   - công nhân
