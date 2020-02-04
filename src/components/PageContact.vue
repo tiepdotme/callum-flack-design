@@ -19,7 +19,7 @@
       <FormNewsletter></FormNewsletter>
     </div>
     <p class="Text-xs text-gray-dark">
-      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Facebook cá nhân <a href="https://facebook.com/tiepoidungso">Fb.com/tiepoidungso</a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn. <br />Ngoài ra trang này còn đăng các tin tuyển dụng công nhân, việc làm trên địa bàn tỉnh Thái Bình dành cho những người muốn tìm công việc ổn định và lâu dài.
+      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Facebook cá nhân <a href="https://facebook.com/tiepoidungso"><strong>Fb.com/tiepoidungso</strong></a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn. <br />Ngoài ra trang này còn đăng các tin tuyển dụng công nhân, việc làm trên địa bàn tỉnh Thái Bình dành cho những người muốn tìm công việc ổn định và lâu dài.
     </p>
   </div>
 </template>
