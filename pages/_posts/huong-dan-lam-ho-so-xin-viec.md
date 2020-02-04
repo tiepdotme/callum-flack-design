@@ -4,6 +4,7 @@ category: writing
 date: 2020-02-04
 title: Hướng dẫn làm hồ sơ xin việc làm
 lede: Mình thường hay làm rồi viết lại để giúp trí nhớ tốt hơn, ngoài ra chia sẻ kiến thức với các bạn đồng trang lứa về cách làm một việc gì đó nhanh chóng, gọn gàng mà tốn ít thời gian, công sức và tiền bạc.
+readingTime: 5
 assets:
   cover: /images/hoso.jpg
 tags:
