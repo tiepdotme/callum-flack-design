@@ -2,7 +2,7 @@
 layout: post
 category: writing
 date: 2020-02-03
-title: công ty tnhh bông thái bình tuyển Công Nhân Làm Nhà Máy Sợi
+title: Công Ty TNHH Bông Thái Bình tuyển công nhân
 lede: Nhận lệnh và vận hành máy sản xuất Công Nhân Làm Nhà Máy Sợi
 readingTime: 8
 assets:
