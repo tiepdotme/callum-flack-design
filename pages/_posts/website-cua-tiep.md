@@ -5,7 +5,7 @@ date: 2020-02-04
 title: Website của Tiếp
 link: https://kadao.me/
 assets: 
-  cover: /images/tinh_me.jpg
+  cover: /images/tinh_me.png
 hero:
   showCover: false
 card:
@@ -15,7 +15,7 @@ tags:
   - frontend
 ---
 
-<Media src="/images/tinh_me.jpg" />
+<Media src="/images/tinh_me.png" />
 
 <PostButton link="https://kadao.me/" label="Visit Tiep's Website" />
 
