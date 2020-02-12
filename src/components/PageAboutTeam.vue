@@ -42,25 +42,25 @@
     </div>
     <div class="grid-area-b">
       <div class="md:w-1/2 lg:w-6/12 Space">
-        <ImageDynamic ratio="12/10" :src="linh.portrait" />
+        <ImageDynamic ratio="12/10" :src="hong.portrait" />
       </div>
       <div class="text-gray-dark">
-        <h2>{{ linh.name }}</h2>
-        <h3>{{ linh.title }}</h3>
-        <p v-html="linh.lede"></p>
+        <h2>{{ hong.name }}</h2>
+        <h3>{{ hong.title }}</h3>
+        <p v-html="hong.lede"></p>
         <ul class="Text-sm">
           <li class="mb-0">
-            <a :href="`mailto:${linh.contacts.email}`">
-              Email: {{ linh.contacts.email }}
+            <a :href="`mailto:${hong.contacts.email}`">
+              Email: {{ hong.contacts.email }}
             </a>
           </li>
           <li>
             <a
-              :href="`https://facebook.com/${linh.contacts.facebook}`"
+              :href="`https://facebook.com/${hong.contacts.facebook}`"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Linh trên Facebook
+              Tuyết Hồng trên Facebook
             </a>
           </li>
         </ul>
@@ -90,7 +90,7 @@ export default {
         facebook: "tiepoidungso",
       },
     },
-    linh: {
+    hong: {
       name: "Trần Thị Tuyết Hồng",
       title: "Backend",
       portrait: "/images/hong.jpg",
