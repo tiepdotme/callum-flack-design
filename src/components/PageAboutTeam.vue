@@ -91,14 +91,14 @@ export default {
       },
     },
     linh: {
-      name: "Linh",
+      name: "Trần Thị Tuyết Hồng",
       title: "Backend",
-      portrait: "/images/linh.jpg",
+      portrait: "/images/hong.jpg",
       lede:
-        "Là một người bạn đồng hành đáng tin cậy, và xứng đáng để kết bạn.",
+        "Tuyết Hồng là một Photographer của SOBO Photography. Một cô gái 21 tuổi năng động, dịu dàng, thấu hiểu. Biết quan tâm người khác. Hiện Tuyết Hồng đang làm việc tại quận Bình Thạnh, Tp.HCM. Tuyết Hồng Là một người bạn đồng hành đáng tin cậy, và xứng đáng để kết bạn.",
       contacts: {
-        email: "linh@kadao.me",
-        facebook: "linhkadao",
+        email: "hong@kadao.me",
+        facebook: "100029336777027",
       },
     },
   }),
