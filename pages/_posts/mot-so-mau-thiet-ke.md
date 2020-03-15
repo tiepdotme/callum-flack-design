@@ -7,6 +7,11 @@ lede: Kể từ lâu, tôi đam mê thiết kế và tạo ra sản phẩm mới
 readingTime: 5
 assets:
   cover: /images/noel.jpg
+hero:
+  showCover: true
+  titleInvert: true
+  imageBlend: 0.6
+  ratio: 9/16
 tags:
   - thiết kế
   - bản vẽ
