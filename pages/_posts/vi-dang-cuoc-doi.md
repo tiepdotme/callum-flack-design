@@ -6,7 +6,7 @@ title: Vị đắng của cuộc đời
 lede: Có trải qua mới thấu hiểu, có ở trong cuộc mới thấy đắng cay chua xót
 readingTime: 5
 assets:
-  cover: /images/dangcaycuocdoi.jpg
+  cover: /images/vidangcuocdoi.jpg
 hero:
   showCover: true
   titleInvert: true
