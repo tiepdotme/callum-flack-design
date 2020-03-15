@@ -24,7 +24,7 @@ modified từ tháng 03/2020.
 
 và trước đó là bản thiết kế menu cho trà sữa chip chip phú quốc, và quán ăn phú quốc.
 
-được thực hiện trong thời gian làm việc cho công ty Sản xuất kẹp tóc Thành Phát, địa chỉ 266/8 An Dương Vương, Quận 8.
+được thực hiện trong thời gian làm việc cho công ty Sản xuất kẹp tóc Thành Phát, địa chỉ 226/8 An Dương Vương, Quận 8.
 
 Công ty này còn có một công ty con mang tên, Công ty kẹp tóc Lê Dư.
 
