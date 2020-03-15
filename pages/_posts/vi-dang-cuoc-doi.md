@@ -33,7 +33,7 @@ tags:
 
 > Xin đừng quên ta đã từng yêu
 
-> Trích điệp khúc bản nhạc Bài hát: Từng Yêu - Phan Duy Anh
+> Trích điệp khúc bản nhạc **Bài hát: Từng Yêu - Phan Duy Anh**
 
 Vì yêu mà đến, em phũ bạc.
 
