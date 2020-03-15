@@ -60,7 +60,7 @@
               target="_blank"
               rel="noopener noreferrer"
             >
-              Tuyết Hồng trên Facebook
+              Tôi trên Facebook
             </a>
           </li>
         </ul>
@@ -91,14 +91,14 @@ export default {
       },
     },
     hong: {
-      name: "Trần Thị Tuyết Hồng",
+      name: "Tôi tuổi 24",
       title: "Backend",
-      portrait: "/images/hong.jpg",
+      portrait: "/images/tiep2.jpg",
       lede:
-        "Tuyết Hồng là một Photographer của SOBO Photography. Một cô gái 21 tuổi năng động, dịu dàng, thấu hiểu. Biết quan tâm người khác. Hiện Tuyết Hồng đang làm việc tại quận Bình Thạnh, Tp.HCM. Tuyết Hồng Là một người bạn đồng hành đáng tin cậy, và xứng đáng để kết bạn.",
+        "Tôi thường chụp hình khi buồn một mình và để khuôn mặt cười tươi.",
       contacts: {
-        email: "hong@kadao.me",
-        facebook: "100029336777027",
+        email: "tiep@kadao.me",
+        facebook: "tiepoidungso",
       },
     },
   }),
