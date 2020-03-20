@@ -28,6 +28,19 @@ Nội dung này được ghi lại, cũng như chụp lại hình ảnh để l�
 
 Có một vài thay đổi nho nhỏ, tối 19/03 họp không phải chuyện nghỉ, mà vẫn tiếp tục làm khâu CNC và laze với số lượng lớn hơn và tần suất nhiều hơn, bằng chứng là báo khoảng 20 ký đã được chuyển giao cho phòng CNC và Laze tiếp quản.
 
+## Một vài hình ảnh chụp trong quá trình làm việc tại công ty
+
+<Media ratio="844/1500" image="/images/nhatkycv.jpg"/>
+
+<Media ratio="844/1500" image="/images/nhatky02.jpg"/>
+
+<Media ratio="844/1500" image="/images/nhatky03.jpg"/>
+
+<Media ratio="844/1500" image="/images/nhatky04.jpg"/>
+
+<Media ratio="844/1500" image="/images/nhatky05.jpg"/>
+
+<Media ratio="844/1500" image="/images/nhatky06.jpg"/>
 
 Hãy ghi chú lại nếu thêm nội dung {.Note}
 
