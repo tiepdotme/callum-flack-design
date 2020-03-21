@@ -51,3 +51,11 @@ Việc làm mới nhất cập nhật bởi Kdo^1^, hỗ trợ thông tin công 
 1. Nội dung được kdo chép lại cho ae công nhân tìm việc làm, Kdo là tên viết tắt của Tiếp adsense {.Note}
 
 2. Do các thành viên của kdo đều sinh sống làm việc tại Thái Bình nên chúng tôi ưu tiên cập nhật nội dung công việc mới nhất trong tỉnh. {.Note}
+
+<script>
+import Media from "../../src/components/Media";
+
+export default {
+  components: { Media }
+}
+</script>
