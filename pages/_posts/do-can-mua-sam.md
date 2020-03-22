@@ -33,6 +33,7 @@ Danh sách đồ dùng cần mua sắm, trang bị cá nhân
 - Dòng này là bổ sung tính trước ngày 21/3 và sau ngày 21/3 ở bên dưới nếu có cập nhật thêm đồ cần mua sắm.
 - 1 tài khoản VCB mới
 - 1 bộ đồ áo sơ mi trắng, quần tây dự đám cưới cháu gái Đạt.
+- 1 nhẫn trơn hoặc kiểu
 
 Hãy ghi chú lại nếu thêm nội dung {.Note}
 
