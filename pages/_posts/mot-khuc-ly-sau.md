@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-date: 2020-03-15
+date: 2020-03-22
 title: Các bản nhạc mà tôi yêu thích
 lede: Gặp nhau làm ngơ, Đêm bơ vơ, Một khúc ly sầu, hay Thôn trăng là những bản nhạc hiện tại rất yêu thích nghe đi nghe lại.
 readingTime: 5
