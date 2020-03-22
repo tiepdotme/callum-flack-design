@@ -87,7 +87,7 @@ export default {
         email: "tiep@kadao.me",
         phone: "0702227255",
         linkedin: "dekadao",
-        facebook: "tiepoidungso",
+        facebook: "tiepmatkieng",
       },
     },
     hong: {
@@ -98,7 +98,7 @@ export default {
         "Tôi thường chụp hình khi buồn một mình và để khuôn mặt cười tươi.",
       contacts: {
         email: "tiep@kadao.me",
-        facebook: "tiepoidungso",
+        facebook: "tiepmatkieng",
       },
     },
   }),
