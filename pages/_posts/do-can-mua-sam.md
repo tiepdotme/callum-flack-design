@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-date: 2020-03-21
+date: 2020-03-23
 title: Đồ cần mua sắm của Tiếp
 lede: Làm lại từ đầu kể từ mười chín tháng hai đầu năm 2020, một kỷ niệm khó phai mang tên Tuyết Hồng.
 readingTime: 5
@@ -16,6 +16,7 @@ tags:
   - cuộc đời
   - mua sắm
 ---
+**cập nhật vào 30/03/2020**
 
 Danh sách đồ dùng cần mua sắm, trang bị cá nhân
 - Viết lông dùng lâu dài
@@ -34,6 +35,7 @@ Danh sách đồ dùng cần mua sắm, trang bị cá nhân
 - 1 tài khoản VCB mới
 - 1 bộ đồ áo sơ mi trắng, quần tây dự đám cưới cháu gái Đạt.
 - 1 nhẫn trơn hoặc kiểu
+- Bùa may mắn và bùa tình duyên
 
 Hãy ghi chú lại nếu thêm nội dung {.Note}
 
