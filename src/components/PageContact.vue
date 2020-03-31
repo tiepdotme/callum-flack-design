@@ -37,7 +37,7 @@ export default {
     signup: "Để kết bạn, chơi với nhau lâu dài và nhận giá ưu đãi đăng ký:",
     contact: {
       email: "tiep@kadao.me",
-      phone: "0702227255",
+      phone: "0337036819",
     },
   }),
 };
