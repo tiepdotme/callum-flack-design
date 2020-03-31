@@ -85,7 +85,7 @@ export default {
         "Tiếp đã dành trọn cuộc sống của mình để tìm kiếm cái đẹp và tạo ra sản phẩm có giá trị, kể từ năm 2006 đã có duyên gắn bó với nghề và đi lên bằng bán tài khoản download, sau này khi PTU đi xuống, mình chuyển hướng sang adsense và đạt được một số thành công nhất định, mình hy vọng mình có thể tạo ra nhiều sản phẩm hơn để phục vụ mọi người chu đáo cho công việc quảng cáo online trực tuyến thông qua web và ứng dụng.",
       contacts: {
         email: "tiep@kadao.me",
-        phone: "0702227255",
+        phone: "0337036819",
         linkedin: "dekadao",
         facebook: "tiepmatkieng",
       },
