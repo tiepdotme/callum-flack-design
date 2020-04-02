@@ -1,7 +1,7 @@
 ---
 layout: post
 category: writing
-date: 2020-02-04
+date: 2020-04-02
 title: Cuộc sống trong thời gian cách ly
 lede: tự hỏi rằng mình sẽ sống ra sao và sẽ như thế nào, đời mình sẽ triệt thành gì và liệu có happy ever after hay không.
 readingTime: 5
