@@ -24,14 +24,20 @@ Tiep Pham
 tới tôi
 2 giờ trướcChi tiết
 Trước đây tôi thường hay sử dụng email, user và mật khẩu cũ là
-xuantiep.pham@gmail.com
-Username: tiepdotme, kinhdo, chanhqua, greenvn
-Mật khẩu gồm tên ngày tháng năm sinh và sao.
+> xuantiep.pham@gmail.com
+
+> Username: tiepdotme, kinhdo, chanhqua, greenvn
+
+> Mật khẩu gồm tên ngày tháng năm sinh và sao.
+
 Kể từ tháng 04/2020 tròn 30 tuổi, sau 1 loạt biến cố thì tôi đã quyết định thay đổi thông tin cá nhân như sau tuy nhiên vẫn còn đang cân nhắc và sẽ sớm có thông báo chính thức.
-tiepmatkieng@gmail.com hoặc kdoadvertising@gmail.com hoặc kadaoad@gmail.com
-Username: kda, kdao, kadaoad.
+> tiepmatkieng@gmail.com hoặc kdoadvertising@gmail.com hoặc kadaoad@gmail.com
+
+> Username: kda, kdao, kadaoad.
+
 Mật khẩu sử dụng đang cân nhắc với một chuỗi từ mới.
-Domain chính thức sử dụng có thể là kadao.me, kdaad.com, kadaoad.com, kdaad.me
+
+> Domain chính thức sử dụng có thể là kadao.me, kdaad.com, kadaoad.com, kdaad.me
 
 Tôi hy vọng rằng các thông tin mới này sẽ giúp cho bản thân có nhiều may mắn mới và hạnh phúc hơn.
 
