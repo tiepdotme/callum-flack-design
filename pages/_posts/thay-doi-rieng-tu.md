@@ -6,7 +6,7 @@ title: Thay đổi thông tin cá nhân
 lede: Tôi hy vọng rằng các thông tin mới này sẽ giúp cho bản thân có nhiều may mắn mới và hạnh phúc hơn.
 readingTime: 5
 assets:
-  cover: /images/thaydoi.jpg
+  cover: /images/thaydoi.jpeg
 hero:
   showCover: true
   titleInvert: true
