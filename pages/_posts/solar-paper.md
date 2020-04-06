@@ -40,7 +40,11 @@ Bên cạnh đó, Solar Paper còn được trang bị một màn hình LCD hi�
 
 Nếu mọi việc diễn ra theo đúng kế hoạch, những người đầu tiên góp tiền cho dự án sẽ nhận được hàng vào khoảng tháng 9 năm nay. Giá bán lẻ dự kiến cho các phiên bản 5 W, 7,5 W và 10 W lần lượt là 120, 160 và 200 USD.
 
+<Media ratio="844/1500" image="/images/solarpaper6.jpg"/>
 
+<Media ratio="844/1500" image="/images/solarpaper7.jpg"/>
+
+<Media ratio="844/1500" image="/images/solarpaper8.jpg"/>
 
 
 Hãy ghi chú lại nếu thêm nội dung {.Note}
