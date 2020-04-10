@@ -39,6 +39,10 @@ Theo ghi chép lần cuối cùng để làm lại tuổi 30, chép lại vào k
 - Cẩn thận hơn không cẩu thả
 - Không nghĩ ngợi và đăng tin linh tinh Facebook hay nhắn tin cho bạn gái nói vào những nỗi buồn hay suy nghĩ sợ hãi bản thân.
 
+Thêm nội dung vào như sau
+
+- Nếu có thêm được bộ phát wifi mini cầm tay và 1 sim phát wifi cỡ 200GB tháng là vừa đáng để xem xét, phần này là còn suy xét.
+
 ## Về công việc
 
 Đầu tiên, cần phải tạo thêm email.
