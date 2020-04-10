@@ -39,6 +39,13 @@ Theo ghi chép lần cuối cùng để làm lại tuổi 30, chép lại vào k
 - Cẩn thận hơn không cẩu thả
 - Không nghĩ ngợi và đăng tin linh tinh Facebook hay nhắn tin cho bạn gái nói vào những nỗi buồn hay suy nghĩ sợ hãi bản thân.
 
+## Về công việc
+
+Đầu tiên, cần phải tạo thêm email.
+
+Sau đó tận dụng các gmail mới đó gắn vào domain cũ, mua lại điện thoại để bắt đầu việc tạo lại tài khoản.
+- Cân nhắc việc kéo pin cho tài khoản
+- Cân nhắc kéo pay cho tài khoản.
 
 Tôi sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
 
