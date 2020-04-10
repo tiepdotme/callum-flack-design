@@ -6,7 +6,7 @@ title: Tôi của tuổi 30
 lede: bất chợt nhìn lại, chụp cho bản thân một tấm hình tuổi 30 chưa có gì cả, và ước muốn cưới gả với cặp nhẫn cỏ
 readingTime: 8
 assets:
-  cover: /images/tiep_02.jpg
+  cover: /images/tiep_01.jpg
 hero:
   showCover: true
   titleInvert: true
@@ -22,7 +22,7 @@ tags:
 
 Khi bất chợt nhận ra mình đã già, cần trưởng thành và nghiêm túc hơn, cẩn trọng hơn và sẵn sàng gánh vác gia đình trên đôi vai gầy.
 
-<Media ratio="844/1500" image="/images/tiep_02.jpg"/>
+<Media ratio="844/1500" image="/images/tiep_01.jpg"/>
 
 Và rồi nhờ duyên may, tôi có cơ hội được đi Bến Tre để đi tìm nhân duyên ❤️ của cuộc đời mình, tôi hy vọng đó Bến Tre là nơi dừng chân cuối cùng của cuộc đời mình, được thanh thản và thong dong bước đi
 ..
