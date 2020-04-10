@@ -1,7 +1,7 @@
 <template>
   <div class="Card">
     <div class="Card-figure w-4/12 sm:w-3/12 s-h sm:mb-0">
-      <ImageDynamic cover src="/images/tiep.jpg" alt="Callum Flack" />
+      <ImageDynamic cover src="/images/tiep.jpg" alt="Tiếp Phạm" />
     </div>
     <div class="Card-body sm:w-8/12">
       <div class="sm:-mt-1">
