@@ -4,6 +4,7 @@ category: writing
 date: 2020-04-12
 title: Solar paper người bạn đồng hành của tôi
 lede: nắng Sài Gòn và lục tỉnh miền Tây Nam kì ổn định quanh năm vì thế rất phù hợp để đầu tư và trang bị thiết bị năng lượng mặt trờieadingTime: 8
+readingTime: 8
 assets:
   cover: /images/chonlua.jpg
 hero:
@@ -14,8 +15,9 @@ hero:
 tags:
   - cá nhân
   - kỷ niệm
-  - đồ cần mua
+  - đồ cần mưa
 ---
+
 **cập nhật vào 12/04/2020**
 
 **KdO** bổ sung tin sau và lưu trữ,
@@ -57,14 +59,14 @@ Tốt hơn hẳn so với các loại tính pin thông thường khác.
 
 rất là tiện lợi khi ở quê nhà và hữu ích cho người đi rẫy đi rừng.
 
-...
+## cá nhân tôi nghĩ
 
 đối với bản thân tôi mà nói thì cái sự tự kỷ của bản thân một mình nó hay nổi lên mỗi khi mà đang có nhu cầu mua sắm cái gì đó cho nên là tôi hay kiếm góc im nắng nào đó rồi làm web viết nội dung bằng điện thoại rồi đăng lên Github đẩy lên website để đăng ký tài khoản AdSense của google. Publish nội dung của người sáng tạo nội dung. Rồi chờ chị google duyệt rồi đem bán. Thì sản phẩm solar paper này mà nói thì quá khứ là FIT với situation của mình. Nên dù cho thế nào thì mình cũng sẽ mua nó cho được có thể bạn có nhiều ý tưởng hơn về chọn loại khác nào đó riêng tôi tôi vẫn cứ thích solar paper.
 
 Solar paper người bạn đồng hành của tôi.
 
 
-Tôi sẽ ghi chú rõ ràng ngày giờ cập nhật {.Note}
+Tôi sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
 
 Dữ liệu tài liệu này do Kdo^1^ và Kda^2^ hợp tác cung cấp bài viết, hỗ trợ thông tin dành cho người cùng lứa tuổi, hoàn cảnh.^3^.
 
