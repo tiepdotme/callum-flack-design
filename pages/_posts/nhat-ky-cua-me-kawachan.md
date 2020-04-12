@@ -6,7 +6,7 @@ title: Nhật ký của mẹ Kawachan
 lede: tôi lượm nhặt được ở trên mạng, cách đây khoảng 7 năm tức là khoảng 2012 đến 2013 kể về hành trình làm mẹ của một cô gái mới lập gia đình.
 readingTime: 8
 assets:
-  cover: /images/kawa1.jpg
+  cover: /images/kawachan/kawa1.jpg
 hero:
   showCover: true
   titleInvert: true
