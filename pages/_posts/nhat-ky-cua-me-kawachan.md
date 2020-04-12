@@ -18,6 +18,7 @@ tags:
   - kỷ niệm
   - làm mẹ
 ---
+
 **cập nhật vào chủ nhật, 12/04/2020**
 
 **KdO** bổ sung các món đồ sau đây làm kỷ niệm và lưu trữ,
@@ -165,8 +166,6 @@ Dữ liệu tài liệu này do Kdo^1^ và Kda^2^ hợp tác cung cấp bài vi�
 
 3. Muốn tìm bạn có cùng hoàn cảnh, lứa tuổi để học hỏi nhau trau dồi cuộc sống {.Note}
 
-
-
 <script>
 import Media from "../../src/components/Media";
 
@@ -174,3 +173,4 @@ export default {
   components: { Media }
 }
 </script>
+
