@@ -3,7 +3,7 @@ layout: post
 category: writing
 date: 2020-04-12
 title: Solar paper người bạn đồng hành của tôi
-lede: nắng Sài Gòn và lục tỉnh miền Tây Nam kì ổn định quanh năm vì thế rất phù hợp để đầu tư và trang bị thiết bị năng lượng mặt trờieadingTime: 8
+lede: nắng Sài Gòn và lục tỉnh miền Tây Nam kì ổn định quanh năm vì thế rất phù hợp để đầu tư và trang bị thiết bị năng lượng mặt trời
 readingTime: 8
 assets:
   cover: /images/chonlua.jpg
