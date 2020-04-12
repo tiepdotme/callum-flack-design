@@ -13,7 +13,6 @@ hero:
   imageBlend: 0.6
   ratio: 9/16
 tags:
-  - 2013
   - kỷ niệm
   - làm mẹ
 ---
