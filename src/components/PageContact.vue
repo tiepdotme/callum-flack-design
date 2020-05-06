@@ -36,7 +36,7 @@ export default {
     about: "Để liên lạc với Tiếp nhanh chóng hãy gọi điện thoại:",
     signup: "Để kết bạn, chơi với nhau lâu dài và nhận giá ưu đãi đăng ký:",
     contact: {
-      email: "tiep@kadao.me",
+      email: "Psm@phusa.me",
       phone: "0337036819",
     },
   }),
