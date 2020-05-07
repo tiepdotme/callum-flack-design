@@ -28,20 +28,20 @@ export default {
       items: [
         "Phạm Xuân Tiếp",
         "0281000538644",
-        "Ngân hàng Vietcombank",
+        "Vietcombank Chi nhánh Thủ Dầu Một, Bình Dương",
       ],
     },
     dev: {
-      title: "Công việc làm",
+      title: "Psm làm tốt nhất với",
       lede:
         "tập trung vào việc phát triển web và nội dung đăng ký tài khoản adsense, chạy traffic tăng thứ hạng, và tăng lượt click quảng cáo.",
       items: [
-        "Làm web",
+        "Phát triển web",
         "Viết nội dung content",
         "Xây dựng đơn đăng ký",
-        "Tài khoản chưa pin",
-        "Tài khoản đã pin",
-        "Tài khoản pay",
+        "Đổ traffic vào Website, Youtube",
+        "Tăng lượt xem, view click chất lượng từ các quốc gia Mỹ và châu âu",
+        "Kéo pin cho tài khoản adsense",
       ],
     },
   }),
