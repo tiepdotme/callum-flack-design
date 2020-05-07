@@ -78,8 +78,8 @@ export default {
   },
   data: () => ({
     tiep: {
-      name: "Phạm Tiếp",
-      title: "Bán hàng, tạo tài khoản, bảo hành",
+      name: "Psm Tiếp",
+      title: "Sáng lập,  Bán hàng, tạo tài khoản, bảo hành",
       portrait: "/images/tiep.jpg",
       lede:
         "Tiếp (Psm) chuyên tạo tài khoản kể từ năm 2006 đã có duyên gắn bó với nghề và đi lên bằng bán tài khoản download, sau này khi PTU đã không còn ở đỉnh điểm của chú ý, mình rẽ hướng sang AdSense, muốn tạo ra các tài khoản giúp các bạn có thêm phương án làm việc tại nhà đảm bảo nguồn thu cho gia đình riêng.",
@@ -91,11 +91,11 @@ export default {
       },
     },
     hong: {
-      name: "Tôi tuổi 24",
-      title: "Backend",
+      name: "Psm Children",
+      title: "Backend, Kế thừa, Frontend, Developer",
       portrait: "/images/tiep2.jpg",
       lede:
-        "Tôi thường chụp hình khi buồn một mình và để khuôn mặt cười tươi.",
+        "Kế thừa và phát triển Psm trở nên lớn mạnh và đa dạng hơn tương tự như một Agency đích thực.",
       contacts: {
         email: "tiep@phusa.me",
         facebook: "tiepmatkieng",
