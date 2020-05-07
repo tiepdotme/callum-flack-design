@@ -82,9 +82,9 @@ export default {
       title: "Bán hàng, tạo tài khoản, bảo hành",
       portrait: "/images/tiep.jpg",
       lede:
-        "Tiếp đã dành trọn cuộc sống của mình để tìm kiếm cái đẹp và tạo ra sản phẩm có giá trị, kể từ năm 2006 đã có duyên gắn bó với nghề và đi lên bằng bán tài khoản download, sau này khi PTU đi xuống, mình chuyển hướng sang adsense và đạt được một số thành công nhất định, mình hy vọng mình có thể tạo ra nhiều sản phẩm hơn để phục vụ mọi người chu đáo cho công việc quảng cáo online trực tuyến thông qua web và ứng dụng.",
+        "Tiếp (Psm) chuyên tạo tài khoản kể từ năm 2006 đã có duyên gắn bó với nghề và đi lên bằng bán tài khoản download, sau này khi PTU đã không còn ở đỉnh điểm của chú ý, mình rẽ hướng sang AdSense, muốn tạo ra các tài khoản giúp các bạn có thêm phương án làm việc tại nhà đảm bảo nguồn thu cho gia đình riêng.",
       contacts: {
-        email: "tiep@kadao.me",
+        email: "Psm@phusa.me",
         phone: "0337036819",
         linkedin: "dekadao",
         facebook: "tiepmatkieng",
@@ -97,7 +97,7 @@ export default {
       lede:
         "Tôi thường chụp hình khi buồn một mình và để khuôn mặt cười tươi.",
       contacts: {
-        email: "tiep@kadao.me",
+        email: "tiep@phusa.me",
         facebook: "tiepmatkieng",
       },
     },
