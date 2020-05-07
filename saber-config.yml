@@ -38,7 +38,7 @@ plugins:
   - resolve: saber-plugin-critical
   - resolve: saber-plugin-google-analytics
     options:
-      trackId: "UA-AAAAAAAAAB-1"
+      trackId: "UA-165841586-1"
   - resolve: saber-plugin-sitemap
   # - resolve: saber-plugin-netlify-redirect
 
