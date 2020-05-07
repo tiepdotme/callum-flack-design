@@ -4,7 +4,7 @@ layout: page
 title: chưa pin 800.000 đồng
 pageTitle: mua bán tài khoản adsense
 # lede: Callum Flack Design is fluid across graphic design, information design and frontend development. Because the quality of the connections crystalises the quality of the whole.
-lede: đặt mã quảng cáo adsense trên trang web có nhiều lượt traffic sẽ đem lại doanh thu khá cao, và là công việc chúng ta có thể làm tại nhà online miễn bạn sở hữu một trang web chất lượng, vì thế đây sẽ là bước đệm cho con đường tài chính của gia đình mình khi có thể chủ động làm được bất kỳ lúc nào.
+lede: Psm sản xuất các loại sản phẩm tài khoản adsense sau đây, loại tài khoản UK US VN chưa pin và có pin. Đối với các quốc gia khác xin vui lòng đặt hàng hoặc yêu cầu làm theo thông tin của bạn. Đặt hàng làm theo domain riêng, email riêng.
 # injectAllPosts: true
 pageClass: page-reverse
 ---
