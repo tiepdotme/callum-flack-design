@@ -1,7 +1,7 @@
 ---
 layout: page
 # title: A designer who codes
-title: chưa pin đơn giá 700.000 đồng
+title: chưa pin 800.000 đồng
 pageTitle: mua bán tài khoản adsense
 # lede: Callum Flack Design is fluid across graphic design, information design and frontend development. Because the quality of the connections crystalises the quality of the whole.
 lede: đặt mã quảng cáo adsense trên trang web có nhiều lượt traffic sẽ đem lại doanh thu khá cao, và là công việc chúng ta có thể làm tại nhà online miễn bạn sở hữu một trang web chất lượng, vì thế đây sẽ là bước đệm cho con đường tài chính của gia đình mình khi có thể chủ động làm được bất kỳ lúc nào.
@@ -13,9 +13,9 @@ pageClass: page-reverse
 
 <div class="Block-t"></div>
 
-# Đội ngũ làm việc tạo adsense của chúng tôi
+# Liên hệ Psm mua account
 
-Chúng tôi là những người chân thật, sống tình cảm và có thói quen thân thiện với tất cả mọi người, mong muốn sản phẩm của chính mình tạo ra được mọi người thừa nhận, cổ vũ và ủng hộ cho chúng tôi. {.Text-xl .text-gray-dark .mb-0 .hu:w-5/6 .su:w-full}
+Chúng tôi chỉ sử dụng duy nhất các cách liên lạc mua hàng như bên dưới đây kèm chức phận của người bán hàng để khách hàng dễ yêu cầu bảo hành, hỗ trợ trong thời gian sử dụng dịch vụ của Psm {.Text-xl .text-gray-dark .mb-0 .hu:w-5/6 .su:w-full}
 
 <!-- The difference isn't obvious until it is. -->
 
