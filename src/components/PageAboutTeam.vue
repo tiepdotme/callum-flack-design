@@ -21,11 +21,11 @@
           </li>
           <li>
             <a
-              :href="`www.linkedin.com/in/${tiep.contacts.linkedin}`"
+              :href="`https://www.linkedin.com/in/${tiep.contacts.linkedin}`"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Tiếp trên Linkedin
+              Psm trên Linkedin
             </a>
           </li>
           <li>
