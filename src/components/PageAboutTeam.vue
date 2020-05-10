@@ -86,8 +86,8 @@ export default {
       contacts: {
         email: "Psm@phusa.me",
         phone: "0337036819",
-        linkedin: "dekadao",
-        facebook: "tiepmatkieng",
+        linkedin: "psmagency",
+        facebook: "100050845217346",
       },
     },
     psm: {
