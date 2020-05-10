@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2 class="Heading Heading-4xl font-medium">Tiếp adsense</h2>
+    <h2 class="Heading Heading-4xl font-medium">Psm Agency</h2>
     <p class="Space-t mb-2px">{{ about }}</p>
     <p class="Text Link mb-2px">
       <a :href="`mailto:${contact.email}`">
@@ -37,7 +37,7 @@ export default {
     signup: "Để kết bạn, chơi với nhau lâu dài và nhận giá ưu đãi đăng ký:",
     contact: {
       email: "Psm@phusa.me",
-      phone: "0337036819",
+      phone: "(033) 703-6819",
     },
   }),
 };
