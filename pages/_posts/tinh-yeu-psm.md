@@ -1,7 +1,7 @@
 ---
 layout: post
 category: projects
-date: 2015-02-02
+date: 2020-05-10
 title: Nhạc nền tình yêu của Psm
 lede: Từ những đoạn nhạc kinh điển TVB thời thập niên 90 tới thời đại mới 2020 của dân công nghệ và yêu.
 assets:
