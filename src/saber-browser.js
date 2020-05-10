@@ -28,11 +28,11 @@ export default ({ setHead }) => {
       {
         // pinterest
         name: "p:domain_verify",
-        content: "codegoeshere",
+        content: "024f96e0ec19e09d931b731405db8616",
       },
       // Twitter card
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@dekadao" },
+      { name: "twitter:site", content: "@psmagency" },
       {
         name: "twitter:image",
         content: "https://avatars2.githubusercontent.com/u/50001808?s=460&v=4",
