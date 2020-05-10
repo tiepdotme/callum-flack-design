@@ -85,7 +85,7 @@ export default {
         "Tiếp (Psm) chuyên tạo tài khoản kể từ năm 2006 đã có duyên gắn bó với nghề và đi lên bằng bán tài khoản download, sau này khi PTU đã không còn ở đỉnh điểm của chú ý, mình rẽ hướng sang AdSense, muốn tạo ra các tài khoản giúp các bạn có thêm phương án làm việc tại nhà đảm bảo nguồn thu cho gia đình riêng.",
       contacts: {
         email: "Psm@phusa.me",
-        phone: "0337036819",
+        phone: "(033) 703-6819",
         linkedin: "psmagency",
         facebook: "100050845217346",
       },
