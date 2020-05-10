@@ -42,21 +42,21 @@
     </div>
     <div class="grid-area-b">
       <div class="md:w-1/2 lg:w-6/12 Space">
-        <ImageDynamic ratio="12/10" :src="hong.portrait" />
+        <ImageDynamic ratio="12/10" :src="psm.portrait" />
       </div>
       <div class="text-gray-dark">
-        <h2>{{ hong.name }}</h2>
-        <h3>{{ hong.title }}</h3>
-        <p v-html="hong.lede"></p>
+        <h2>{{ psm.name }}</h2>
+        <h3>{{ psm.title }}</h3>
+        <p v-html="psm.lede"></p>
         <ul class="Text-sm">
           <li class="mb-0">
-            <a :href="`mailto:${hong.contacts.email}`">
-              Email: {{ hong.contacts.email }}
+            <a :href="`mailto:${psm.contacts.email}`">
+              Email: {{ psm.contacts.email }}
             </a>
           </li>
           <li>
             <a
-              :href="`https://facebook.com/${hong.contacts.facebook}`"
+              :href="`https://facebook.com/${psm.contacts.facebook}`"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -90,7 +90,7 @@ export default {
         facebook: "tiepmatkieng",
       },
     },
-    hong: {
+    psm: {
       name: "Psm Children",
       title: "Backend, Kế thừa, Frontend, Developer",
       portrait: "/images/tiep2.jpg",
