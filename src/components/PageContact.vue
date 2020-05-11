@@ -14,6 +14,12 @@
         <span>+84 {{ contact.phone }}</span>
       </a>
     </p>
+    <p class="Text Link">
+      <a :href="`/resume.pdf`">
+        <span class="Text-contact-type">CV: </span>
+        <span>Resume</span>
+      </a>
+    </p>
     <div class="Space-y">
       <p class="Text mb-2px">{{ signup }}</p>
       <FormNewsletter></FormNewsletter>
