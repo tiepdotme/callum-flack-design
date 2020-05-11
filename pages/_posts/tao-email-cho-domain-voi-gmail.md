@@ -30,7 +30,7 @@ Thường mặc định bạn sẽ buộc phải nghĩ đến dịch vụ email 
 
 ## Hướng dẫn Tạo email tên miền riêng miễn phí với Gmail
 
-Bản thân <mark>ramendaily.com</mark> sử dụng dịch vụ Gmail của Google để tăng sức mạnh cho giao tiếp email tên miền tùy chỉnh của mình. Gmail cung cấp một tính năng độc đáo thông qua đó tôi có thể thêm nhiều địa chỉ tên miền tùy chỉnh ngay trong tài khoản Gmail của mình. 
+Bản thân Psm sử dụng dịch vụ Gmail của Google để tăng sức mạnh cho giao tiếp email tên miền tùy chỉnh của mình. Gmail cung cấp một tính năng độc đáo thông qua đó tôi có thể thêm nhiều địa chỉ tên miền tùy chỉnh ngay trong tài khoản Gmail của mình. 
 
 Trong khi soạn email, tôi có thể dễ dàng chọn các địa chỉ email tùy chỉnh cần thiết từ menu thả xuống. Rất đơn giản và được tích hợp cùng với email cũ của mình dùng chính trước khi có tên miền, vì vậy không phải chuyển qua chuyển lại hay phải báo cáo với mọi người về sự thay đổi.
 
