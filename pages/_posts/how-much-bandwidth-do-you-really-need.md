@@ -48,6 +48,9 @@ Và để đón trước tương lai, Psm còn chuẩn bị cho riêng mình v�
 | PLAN DỰ PHÒNG    | 2 MB             | 100        | 100 GB         | 30000                   | 100 GB     |
 | OPEN SOURCE PLAN | 2 MB             | 1000       | 400 GB         | 120000                  | 400 GB     |
 
+với bài tính toán này của mình, Psm có thể **bao trọn gói** cho khách hàng thân thiết, và các bạn viếng thăm ngôi nhà Psm mà không cần lo lắng về việc Psm có thể bị tấn công hoặc hết sạch băng thông và làm gián đoạn sự yêu mến của các bạn khi viếng thăm Psm.
+
+- - -
 
 
 Băng thông không giới hạn?
