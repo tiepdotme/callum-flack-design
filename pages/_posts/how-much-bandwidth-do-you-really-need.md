@@ -30,7 +30,7 @@ tags:
 | 2 MB                        | 500        | 1 GB                     | 500                    | 15000                   | 30 GB                |
 | 2 MB                        | 1000       | 2 GB                     | 1000                   | 30000                   | 60 GB                |
 | 2 MB                        | 2000       | 4 GB                     | 2000                   | 60000                   | 120 GB               |
-> Psm (Phù sa mẹ) của Tiếp với địa chỉ https://phusa.me hiện tại vẫn chưa vượt qua được mốc đầu tiên **6GB** dù cho đã phát triển được gần... 1 năm :D
+> Psm (Phù sa mẹ) của Tiếp với địa chỉ https://phusa.me hiện tại vẫn chưa vượt qua được mốc đầu tiên 6GB dù cho đã phát triển được gần... 1 năm :D
 > **Chuyện nhà Psm**.
 - - -
 
