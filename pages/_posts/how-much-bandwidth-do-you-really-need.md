@@ -34,6 +34,22 @@ tags:
 > **Chuyện nhà Psm**.
 - - -
 
+## bảng tính toán dự phòng của Psm
+
+Psm có phương án của riêng mình, chứ không phụ thuộc hoàn toàn vào cam kết của Nhà cung cấp Hosting. Trong đó, gói **mặc định** của Psm có Dung lượng đĩa lên tới 100 GB, và băng thông hàng tháng là 100 GB.
+
+Dù còn sơ khai, nhưng Psm lại còn gói dự phòng cho bản thân khi gói mặc định hết băng thông, cụ thể trang Psm sẽ được chuyển manual bằng tay về gói dự phòng (Free Starter Team Plan) của Psm với dung lượng và băng thông tương đương như gói mặc định.
+
+Và để đón trước tương lai, Psm còn chuẩn bị cho riêng mình với gói khá lớn lên đến 400 GB dung lượng và 400 GB băng thông (Open Source Plan) của mình. Đã nộp đơn đăng ký gói này kể từ 10/05/2020. Đây là bài tính đầy thận trọng cho tương lai của Psm.
+
+| TÍNH TOÁN        | KÍCH THƯỚC TRANG | SỐ TRANG   | DUNG LƯỢNG ĐĨA | SỐ LƯỢNG TẢI HÀNG THÁNG | BĂNG THÔNG |
+|------------------|------------------|------------|----------------|-------------------------|------------|
+| HIỆN CÓ          | 2 MB             | 100        | 100 GB         | 30000                   | 100 GB     |
+| PLAN DỰ PHÒNG    | 2 MB             | 100        | 100 GB         | 30000                   | 100 GB     |
+| OPEN SOURCE PLAN | 2 MB             | 1000       | 400 GB         | 120000                  | 400 GB     |
+
+
+
 Băng thông không giới hạn?
 Vì vậy, đừng phạm lỗi với những ưu đãi băng thông không giới hạn đó, đối với người mới bắt đầu, đó là một huyền thoại. Tất cả các nhà cung cấp dịch vụ lưu trữ web phải trả tiền cho băng thông của họ, vì vậy để cung cấp một dịch vụ không giới hạn chỉ là một cuộc nói chuyện điên rồ.
 
