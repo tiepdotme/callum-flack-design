@@ -34,6 +34,7 @@
             <saber-link to="/about" class="Link text-brand-red">
               Mua ngay &#8594;
             </saber-link>
+            <br /><br />
           </template> hoặc bạn tìm mua mgid thì <template v-if="$route.path === '/'">
             <saber-link to="/about" class="Link text-brand-red">
               account mgid &#8594;
