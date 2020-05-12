@@ -35,7 +35,8 @@
               Mua ngay &#8594;
             </saber-link>
             <br /><br />
-          </template> Có phải bạn tìm mua mgid không? xem <template v-if="$route.path === '/'">
+          </template> 
+          <template v-if="$route.path === '/'">Có phải bạn tìm mua mgid không? xem <template v-if="$route.path === '/'">
             <saber-link to="/mgid" class="Link text-brand-red">
               báo giá account mgid &#8594;
             </saber-link>
