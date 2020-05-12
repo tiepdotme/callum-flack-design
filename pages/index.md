@@ -21,6 +21,10 @@ pageClass: bg-brand-neutral
 lede: Tiếp chuyên tạo tài khoản adsense, mgid dành cho các anh chị em làm trong lĩnh vực quảng cáo online advertising website và app trên iOS, Android. tài khoản AdSense chưa có pin, tài khoản có đủ ngưỡng nhận pin, tài khoản đã nhận pin.
 ledeTwo: This website is an index of projects (since 2001), writing (to explain the work to myself and my collaborators) and an email letter sent every Tuesday AEST, which is the easiest way to continue the conversation—
 link: about
+mgid:
+  link: mgid
+  title: Mua bán tài khoản Mgid
+  lede: Tiếp bán tài khoản mgid đã kích hoạt domain sẵn sàng để hiện thị quảng cáo cpm.
 projects:
   link: projects
   title: Selected projects
