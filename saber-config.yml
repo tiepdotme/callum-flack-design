@@ -22,6 +22,8 @@ themeConfig:
       link: /the-littoral-line
     - text: about
       link: /about
+    - text: mgid
+      link: /mgid
   social:
     rss: true
   lang: en
