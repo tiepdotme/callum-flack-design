@@ -80,7 +80,7 @@ export default {
     tiep: {
       name: "Psm Tiếp",
       title: "Sáng lập,  Bán hàng, tạo tài khoản, bảo hành",
-      portrait: "/images/tiep.jpg",
+      portrait: "/images/svg/psm.svg",
       lede:
         "Tiếp (Psm) chuyên tạo tài khoản kể từ năm 2006 đã có duyên gắn bó với nghề và đi lên bằng bán tài khoản download, sau này khi PTU đã không còn ở đỉnh điểm của chú ý, mình rẽ hướng sang AdSense, muốn tạo ra các tài khoản giúp các bạn có thêm phương án làm việc tại nhà đảm bảo nguồn thu cho gia đình riêng.",
       contacts: {
