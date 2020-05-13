@@ -86,7 +86,7 @@ export default {
       contacts: {
         email: "Psm@phusa.me",
         phone: "(033) 703-6819",
-        linkedin: "psmagency",
+        linkedin: "phusame",
         facebook: "100050845217346",
       },
     },
