@@ -32,10 +32,10 @@ export default ({ setHead }) => {
       },
       // Twitter card
       { name: "twitter:card", content: "summary" },
-      { name: "twitter:site", content: "@psmagency" },
+      { name: "twitter:site", content: "@phusame" },
       {
         name: "twitter:image",
-        content: "https://avatars2.githubusercontent.com/u/50001808?s=460&v=4",
+        content: "https://avatars2.githubusercontent.com/u/64916187?s=460&v=4",
       },
       { name: "twitter:image:alt", content: "Tiep Pham" },
     ],
