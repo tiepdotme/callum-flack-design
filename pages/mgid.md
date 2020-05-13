@@ -4,7 +4,7 @@ layout: page
 title: Account mgid 1.000.000 đồng
 pageTitle: mua bán tài khoản MGID
 # lede: Callum Flack Design is fluid across graphic design, information design and frontend development. Because the quality of the connections crystalises the quality of the whole.
-lede: Psm sản xuất các loại sản phẩm tài khoản adsense sau đây, loại tài khoản UK US VN chưa pin và có pin. Đối với các quốc gia khác xin vui lòng đặt hàng hoặc yêu cầu làm theo thông tin của bạn. Đặt hàng làm theo domain riêng, email riêng.
+lede: Psm hiện đang có một số tài khoản mgid đã được kích hoạt sẵn domain có thể sử dụng ngay để triển khai quảng cáo và traffic.
 # injectAllPosts: true
 pageClass: page-reverse
 ---
