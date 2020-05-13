@@ -23,7 +23,7 @@ export default ({ setHead }) => {
     meta: [
       {
         name: "google-site-verification",
-        content: "codegoeshere",
+        content: "PsmAlreadyVerification",
       },
       {
         // pinterest
