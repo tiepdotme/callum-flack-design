@@ -87,7 +87,7 @@ export default {
         email: "Psm@phusa.me",
         phone: "(033) 703-6819",
         linkedin: "psmagency",
-        facebook: "100050845217346",
+        facebook: "psmwork",
       },
     },
     psm: {
