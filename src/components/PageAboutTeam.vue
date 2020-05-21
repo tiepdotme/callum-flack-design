@@ -109,6 +109,7 @@ export default {
       contacts: {
         email: "tiep@phusa.me",
         facebook: "tiepmatkieng",
+        telegram: "psmagency",
       },
     },
   }),
