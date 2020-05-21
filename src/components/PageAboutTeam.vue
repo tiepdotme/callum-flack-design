@@ -63,6 +63,15 @@
               Tôi trên Facebook
             </a>
           </li>
+          <li>
+            <a
+              :href="`https://t.me/${psm.contacts.telegram}`"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Tôi trên Telegram
+            </a>
+          </li>
         </ul>
       </div>
     </div>
@@ -88,6 +97,7 @@ export default {
         phone: "(033) 703-6819",
         linkedin: "phusame",
         facebook: "100050845217346",
+        telegram: "psmagency",
       },
     },
     psm: {
