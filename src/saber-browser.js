@@ -30,6 +30,11 @@ export default ({ setHead }) => {
         name: "p:domain_verify",
         content: "024f96e0ec19e09d931b731405db8616",
       },
+      {
+        // exoclick
+        name: "exoclick-site-verification",
+        content: "c4b667acfd5e94cd09016ea1eb58ec04",
+      },
       // Twitter card
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@phusame" },
