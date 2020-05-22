@@ -5,7 +5,7 @@ title: Ward6
 date: 2015-01-10
 lede: Building an online reputation for a renowned Australasian Healthcare communications agency.
 agency: Ward6
-link: https://www.ward6.asia/
+link: https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260
 assets:
   cover: /images/ward6-card.jpg
 nextProject: /work/ward6-edetailers
@@ -31,7 +31,7 @@ The new Ward6 website allowed us to focus on repeatably presenting and distribut
 
 Completed in collaboration with Jason Armstrong, Andres Hernandez and Richard Price while working for Ward6. {.Note}
 
-<PostButton link="http://www.ward6.asia" label="Visit Ward6" />
+<PostButton link="https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260" label="Visit Ward6" />
 
 <script>
 import Media from "../../src/components/Media";
