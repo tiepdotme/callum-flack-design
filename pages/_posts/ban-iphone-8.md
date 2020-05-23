@@ -15,6 +15,10 @@ tags:
   - còn mới
 ---
 
+<PostButton link="https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260" label="Đặt mua iPhone 8 của Psm trên Shopee" />
+
+
+
 iPhone 8 64GB nổi bật với điểm nhấn mặt lưng kính và mặt trước giữ nguyên thiết kế như iPhone 7, cùng với đó là hàng loạt công nghệ đáng mong đợi như sạc nhanh, không dây hay hỗ trợ thực tế ảo AR.
 Thay đổi phong cách thiết kế
 
@@ -38,10 +42,12 @@ Psm sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi
 
 sản phẩm do Psm lựa chọn và xem xét kỹ lưỡng chất lượng, thời lượng pin, cấu hình máy, và độ mượt mà trước khi đăng bán {.Note}
 
-<PostButton link="https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260" label="Đặt mua iPhone 8 của Psm trên Shopee" />
-
 
 Dữ liệu tài liệu này do Psm^1^ và KdO^2^ hợp tác trong bài viết, hỗ trợ thông tin dành cho người cùng lứa tuổi, hoàn cảnh, cùng các bạn đọc quan tâm tới Psm nội dung.^3^.
+
+
+<PostButton link="https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260" label="Đặt mua iPhone 8 của Psm trên Shopee" />
+
 
 ---
 
