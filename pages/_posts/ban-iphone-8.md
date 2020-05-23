@@ -26,7 +26,7 @@ Thay đổi phong cách thiết kế
 
 Tìm hiểu thêm về nhóm yêu thích iphone 8 giống bạn tại phusa.me và trên các nhóm Facebook group.
 
-<MediaVideo src="B4bt3z_uJZE" ratio="540/768" frame />
+<MediaYoutube src="B4bt3z_uJZE" ratio="540/768" frame />
 
 Poorly maintained content-managed websites cost significant time and effort to resurrect. To avoid this long-term expense, I researched CMS systems against a checklist of modern web development requirements, and settled on a [JAMstack](https://www.siteleaf.com/blog/jamstack-ecommerce/) (JavaScript, APIs, & Markup) setup that gave us git-based content-management, flexible third-party integrations and easy local web development.
 
