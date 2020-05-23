@@ -28,13 +28,31 @@ Tìm hiểu thêm về nhóm yêu thích iphone 8 giống bạn tại phusa.me v
 
 <MediaYoutube src="B4bt3z_uJZE" ratio="540/768" frame />
 
-Poorly maintained content-managed websites cost significant time and effort to resurrect. To avoid this long-term expense, I researched CMS systems against a checklist of modern web development requirements, and settled on a [JAMstack](https://www.siteleaf.com/blog/jamstack-ecommerce/) (JavaScript, APIs, & Markup) setup that gave us git-based content-management, flexible third-party integrations and easy local web development.
+## Thiết kế và màn hình
 
-> Callum's broad understanding of web systems allowed us to choose better long-term decisions during our re-development. His diligence meant the final product really does represent what we had imagined. **Jason Armstrong, Digital Director**
+iPhone 8 vẫn giữ nguyên phong cách thiết kế truyền thống từ iPhone 7, điểm khác biệt duy nhất chính là mặt lưng không còn là kim loại và được thay thế bằng chất liệu kính bóng bẩy.
+
+Mặt trước iPhone 8 là màn hình có kích thước 4.7 inch tương tự như iPhone 7, rất tiếc Apple vẫn giữ nguyên phong cách viền màn hình "dày cui" chứ không chạy theo xu hướng vô cực như những gì Samsung đã làm.
+
+> Tiếp (Psm_) chủ yếu săm soi và chọn lọc các iPhone 8 cũ đạt tiêu chuẩn sử dụng từ các đồ cũ của người dùng, sau đó có hiệu chỉnh và nâng cấp giống như độ xe để có chất lượng tốt nhất bằng tay nghề. **Psm, Định hướng sản phẩm**
+
+Theo các thông số công bố, iPhone 8 có kích thước tổng thể to và dày hơn 1 chút  so với người tiền nhiệm, 143.5 x 71 x 7.5 mm so với 138.3 x 67.1 x 7.1 mm. Có thể khẳng định iPhone 8 là phiên bản làm mới từ iPhone 7, không có quá nhiều khác biệt về ngoại hình.
 
 <Media ratio="668/1000" image="/images/iphone-8.jpg" />
 
-The new Ward6 website allowed us to focus on repeatably presenting and distributing first-class campaign showcases, rather than wrestling with website technologies.
+## Hiệu năng và tính năng
+
+Apple bắt đầu sử dụng phiên bản vi xử lý A11 Bionic thế hệ mới với 6 nhân hoạt động liên tục nhằm đem lại sức mạnh được cho là vượt trội hơn so với thế hệ iPhone 7. Cụ thể, khả năng đa nhiệm được nâng cao hơn 70% và xử lý đồ họa tốt hơn 30% so với A10 trên iPhone 7.
+
+Một chi tiết đáng chú ý nữa là iPhone 8 vẫn sẽ tích hợp 2GB RAM tương tự như iPhone 7, có vẻ như iOS 11 không tiêu tốn quá nhiều RAM để Apple nâng cấp phần cứng cho sản phẩm mới này.
+
+## Camera iPhone 7 và iPhone 8
+
+Thật buồn khi iPhone 8 vẫn bê nguyên xi cụm camera đơn trên iPhone 7, như vậy chúng ta sẽ có 1 thiết bị mới với chất lượng camera không thay đổi quá nhiều. Nếu có chỉ là đến 1 vài hiệu chỉnh nhỏ về thuật toán do vi xử lý A11 tạo nên và công nghệ chống rung quang học được bổ sung vào.
+
+## Khác biệt duy nhất
+
+Điểm tạo nên sự khác biệt duy nhất và cũng là tiêu chí để phân biệt đâu là iPhone 7? đâu là iPhone 8 chính là mặt lưng sau đã được gia công bằng chất liệu kính. Nguyên nhân từ việc thay đổi này chính là Apple đã tích hợp thành công quy chuẩn sạc không dây trên thế hệ iPhone mới của mình.
 
 Psm sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
 
