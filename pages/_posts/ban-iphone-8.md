@@ -17,7 +17,7 @@ tags:
 
 <PostButton link="https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260" label="Đặt mua iPhone 8 của Psm trên Shopee" />
 
-
+---
 
 iPhone 8 64GB nổi bật với điểm nhấn mặt lưng kính và mặt trước giữ nguyên thiết kế như iPhone 7, cùng với đó là hàng loạt công nghệ đáng mong đợi như sạc nhanh, không dây hay hỗ trợ thực tế ảo AR.
 Thay đổi phong cách thiết kế
@@ -32,9 +32,7 @@ Poorly maintained content-managed websites cost significant time and effort to r
 
 > Callum's broad understanding of web systems allowed us to choose better long-term decisions during our re-development. His diligence meant the final product really does represent what we had imagined. **Jason Armstrong, Digital Director**
 
-<Media ratio="1994/2880" image="/images/ward6-hero.jpg" />
-
-<Media ratio="1286/2880" image="/images/ward6-mobile-screens-dark.png" />
+<Media ratio="668/1000" image="/images/iphone-8.jpg" />
 
 The new Ward6 website allowed us to focus on repeatably presenting and distributing first-class campaign showcases, rather than wrestling with website technologies.
 
