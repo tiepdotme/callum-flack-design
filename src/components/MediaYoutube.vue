@@ -101,7 +101,7 @@ export default {
   },
   computed: {
     youtubeSrc() {
-      return `https://www.youtube.com/embed/${this.src}`;
+      return `https://www.youtube.com/embed/${this.src}?autoplay=1&mute=1&origin=https://phusa.me`;
     },
     aspectClasses() {
       return [
