@@ -57,7 +57,7 @@ Dữ liệu tài liệu này do Psm^1^ và KdO^2^ hợp tác trong bài viết, 
 
 <script>
 import Media from "../../src/components/Media";
-import MediaVideo from "../../src/components/MediaYoutube";
+import MediaYoutube from "../../src/components/MediaYoutube";
 import PostButton from "../../src/components/PostButton";
 export default {
   components: {
