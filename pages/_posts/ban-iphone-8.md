@@ -15,7 +15,12 @@ tags:
   - còn mới
 ---
 
-With offices in Sydney and Singapore, Ward6 is recognised as Asia Pacific's leading independent health communications agency. I helped transfer this reputation online with a mobile-first website using a JAMstack architecture that was easy to use, very fast and easy to update and maintain.
+iPhone 8 64GB nổi bật với điểm nhấn mặt lưng kính và mặt trước giữ nguyên thiết kế như iPhone 7, cùng với đó là hàng loạt công nghệ đáng mong đợi như sạc nhanh, không dây hay hỗ trợ thực tế ảo AR.
+Thay đổi phong cách thiết kế
+
+Điện thoại iPhone 8 kết hợp giữa những đường nét đã làm nên chuẩn mực, thương hiệu với sự thời thượng và hiện đại của mặt lưng phủ kính cường lực thay vì nguyên khối kim loại. Điểm thiết kế này mang lại độ bóng bẩy, đẹp mắt hơn cho sản phẩm.
+
+Tìm hiểu thêm về nhóm yêu thích iphone 8 giống bạn tại phusa.me và trên các nhóm Facebook group.
 
 <MediaVideo src="286993397" ratio="540/768" frame />
 
@@ -29,9 +34,21 @@ Poorly maintained content-managed websites cost significant time and effort to r
 
 The new Ward6 website allowed us to focus on repeatably presenting and distributing first-class campaign showcases, rather than wrestling with website technologies.
 
-Completed in collaboration with Jason Armstrong, Andres Hernandez and Richard Price while working for Ward6. {.Note}
+Psm sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
+
+sản phẩm do Psm lựa chọn và xem xét kỹ lưỡng chất lượng, thời lượng pin, cấu hình máy, và độ mượt mà trước khi đăng bán {.Note}
 
 <PostButton link="https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260" label="Đặt mua iPhone 8 của Psm trên Shopee" />
+
+Dữ liệu tài liệu này do Psm^1^ và KdO^2^ hợp tác trong bài viết, hỗ trợ thông tin dành cho người cùng lứa tuổi, hoàn cảnh, cùng các bạn đọc quan tâm tới Psm nội dung.^3^.
+
+---
+
+1. Nội dung được **Psm** chép lại khi trải đời, Kdo là tên viết tắt của Tiếp adsense và **Psm** là tên viết tắt của Psm (Phu sa me) Agency Advertising {.Note}
+
+2. **Psm** là tên gọi Viết tắt của Phù sa mẹ. {.Note}
+
+3. Muốn tìm bạn có cùng hoàn cảnh, lứa tuổi để học hỏi nhau trau dồi cuộc sống {.Note}
 
 <script>
 import Media from "../../src/components/Media";
