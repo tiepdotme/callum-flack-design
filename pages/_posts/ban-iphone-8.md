@@ -15,9 +15,18 @@ tags:
   - còn mới
 ---
 
+## Ưu đãi dành cho khách hàng khi đặt mua sản phẩm **iPhone 8** từ Psm
+- bảo hành trong thời gian 6 tháng kể từ thời điểm bạn mua và nhận được iPhone 8 của mình.
+- Trọn bộ phụ kiện kèm theo máy như: Máy, sạc, cáp, tai nghe...
+- Miễn phí trọn bộ phim Hongkong 1980s - 1990s, Châu Tinh Trì, Phim Kiếm Hiệp Kim Dung dành riêng cho máy iphone.
+- ưu đãi giảm giá lên đến 40% khi mua sản phẩm ốp sạc dự phòng cho iPhone 8 (3.000mAh)
+- ưu đãi dán kiếng cường lực cho iPhone 8
+- tham gia vào hội nhóm mua bán và trao đổi iPhone các đời máy do Psm lựa chọn, tổ chức.
+---
 <PostButton link="https://shopee.vn/%C4%90i%E1%BB%87n-tho%E1%BA%A1i-iPhone-8-64GB-%C4%91%E1%BB%A7-m%C3%A0u-l%E1%BB%B1a-ch%E1%BB%8Dn-i.259737548.5434812260" label="Đặt mua iPhone 8 của Psm trên Shopee" />
 
 ---
+
 
 iPhone 8 64GB nổi bật với điểm nhấn mặt lưng kính và mặt trước giữ nguyên thiết kế như iPhone 7, cùng với đó là hàng loạt công nghệ đáng mong đợi như sạc nhanh, không dây hay hỗ trợ thực tế ảo AR.
 Thay đổi phong cách thiết kế
