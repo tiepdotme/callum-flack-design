@@ -7,7 +7,7 @@ lede: Psm tiến hành phân tích và phát triển theme haravan tối ưu bá
 agency: Psm iphone
 link: https://gushopvnxk.com
 assets:
-  cover: /images/iphone-8.jpg
+  cover: /images/gushopvnxk.jpg
 nextProject: /work/ward6-edetailers
 nextProjectTitle: Pharma eDetailer apps
 tags:
@@ -28,7 +28,7 @@ trước khi export bộ theme mới nhất được thiết kế trong mode dev
 
 Sau khi đã được duyệt và xem xét dữ liệu đầy đủ, và vượt qua (pass) khâu test lỗi thì sẽ chuyển từ development mode sang production mode.
 
-<MediaYoutube src="B4bt3z_uJZE" ratio="540/768" frame />
+<Media ratio="668/1000" image="/images/gushopvnxk.jpg"/>
 
 ## Thiết kế như thế nào để hài hòa giữa GUShopVNXK và khách hàng?
 
