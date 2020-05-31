@@ -42,9 +42,12 @@
             </saber-link>
           </template>
           <template v-if="$route.path === '/'"> 
-            <a href="https://phusame.myshopify.com">
+            <saber-link to="https://phusame.myshopify.com" class="Link text-brand-red">
     <img src="https://phusa.me/images/shop_link.png" alt="Shop của Psm" />
-  </a>
+  </saber-link>
+<saber-link to="https://shopee.vn/psmagency" class="Link text-brand-red">
+    <img src="https://phusa.me/images/shopee_link.png" alt="Psm shop trên Shopee" />
+  </saber-link>
           </template>
         </p>
         <!-- default slot -->
