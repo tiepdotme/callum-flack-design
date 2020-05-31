@@ -41,6 +41,14 @@
               báo giá account mgid &#8594;
             </saber-link>
           </template>
+          <template v-if="$route.path === '/'"> 
+            <a href="https://phusame.myshopify.com">
+    <img src="https://phusa.me/images/shop_link.png" alt="Shop của Psm" />
+  </a>
+<a href="https://shopee.vn/psmagency">
+    <img src="https://phusa.me/images/shopee_link.png" alt="Psm shop trên Shopee" />
+  </a>
+          </template>
         </p>
         <!-- default slot -->
         <slot></slot>
