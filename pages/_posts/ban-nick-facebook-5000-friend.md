@@ -2,7 +2,7 @@
 category: projects
 layout: post
 title: nick facebook full 5000 friends 100.000đ bán hàng dành cho anh em
-date: 2020-05-03
+date: 2020-06-04
 lede: giá bán 100.000đ/nick.
 agency: Nick Facebook 5000 friends
 link: https://shop.phusa.me
