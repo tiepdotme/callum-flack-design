@@ -7,7 +7,7 @@ lede: giá bán 100.000đ/nick.
 agency: Nick Facebook 5000 friends
 link: https://shop.phusa.me
 assets:
-  cover: /images/fb5000friends.jpg
+  cover: /images/fb_5000.jpg
 nextProject: /work/ward6-edetailers
 nextProjectTitle: Pharma eDetailer apps
 tags:
