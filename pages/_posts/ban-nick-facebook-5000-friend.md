@@ -32,6 +32,17 @@ Nick facebook full 5000 friends bán hàng cho anh em chạy quảng cáo bán 
 - Bảo hành sai mật khẩu cho KH
 - Mua ít nhất 10 acc trở lên
 
+## Mua nick
+
+Để mua nick facebook 5000 friend, Psm có thể thanh toán bằng:
+
+- Chuyển khoản ngân hàng VCB số Tài khoàn 0281000538644 Phạm Xuân Tiếp, CN Thủ Dầu Một, Bình Dương
+- Chuyển MOMO 0337036819
+- Chuyển khoản VPBank
+
+## bảo hành
+
+Chat zalo 0337036819 hoặc facebook.com/psmwork
 
 Psm sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
 
