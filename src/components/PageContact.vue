@@ -25,7 +25,7 @@
       <FormNewsletter></FormNewsletter>
     </div>
     <p class="Text-xs text-gray-dark">
-      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Made with ❤️ by <a href="https://www.facebook.com/profile.php?id=100050845217346"><strong>Fb.com/phusa</strong></a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn. <br />Ngoài ra trang này còn đăng nội dung cá nhân, và kinh nghiệm mà Psm đã trải qua và mong muốn hướng dẫn lại đóng góp cho cuộc đời, cho đi để được nhận lại. <br /><strong>Psm</strong> là thương hiệu sở hữu của Tiếp. <br />This site is powered by <a href="https://www.netlify.com"><strong>Netlify</strong></a>.
+      © Tiếp adsense đã làm adsense kể từ năm 2015 đến nay năm {{ new Date().getFullYear() }}. <br />Made with ❤️ by <a href="https://www.facebook.com/profile.php?id=psmwork"><strong>Fb.com/phusa</strong></a> <br />Các bạn có thể liên lạc với mình qua Facebook và zalo nhé. hoặc gọi điện trực tiếp sẽ tốt hơn. <br />Ngoài ra trang này còn đăng nội dung cá nhân, và kinh nghiệm mà Psm đã trải qua và mong muốn hướng dẫn lại đóng góp cho cuộc đời, cho đi để được nhận lại. <br /><strong>Psm</strong> là thương hiệu sở hữu của Tiếp.
     </p>
   </div>
 </template>
