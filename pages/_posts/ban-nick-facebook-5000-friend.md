@@ -30,7 +30,6 @@ Nick facebook full 5000 friends bán hàng cho anh em chạy quảng cáo bán 
 - Nick Facebook người Việt Nam
 - Khách hàng mua về đổi pass dùng được luôn.
 - Bảo hành sai mật khẩu cho KH
-- Mua ít nhất 10 acc trở lên
 
 ## Mua nick
 
