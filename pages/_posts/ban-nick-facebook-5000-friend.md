@@ -5,7 +5,7 @@ title: nick facebook full 5000 friends 100.000đ bán hàng dành cho anh em
 date: 2020-06-04
 lede: giá bán 100.000đ/nick.
 agency: Nick Facebook 5000 friends
-link: https://shop.phusa.me
+link: https://phuquoc.me/products/nick-facebook-full-5000-friends-100k
 assets:
   cover: /images/fb_5000.jpg
 nextProject: /work/ward6-edetailers
@@ -21,7 +21,7 @@ Giá 100.000đ/nick
 
 
 ---
-<PostButton link="https://shop.phusa.me" label="đặt mua nick facebook 5000 friends" />
+<PostButton link="https://phuquoc.me/products/nick-facebook-full-5000-friends-100k" label="đặt mua nick facebook 5000 friends" />
 
 ---
 
@@ -41,7 +41,7 @@ Nick facebook full 5000 friends bán hàng cho anh em chạy quảng cáo bán 
 
 ## bảo hành
 
-Chat zalo 0337036819 hoặc facebook.com/psmwork
+Chat zalo 0337036819 hoặc facebook.com/phu.sa.581525
 
 Psm sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
 
@@ -52,7 +52,7 @@ Dữ liệu tài liệu này do Psm^1^ và KdO^2^ hợp tác trong bài viết, 
 
 
 
-<PostButton link="https://shop.phusa.me" label="đặt mua nick facebook 5000 friends" />
+<PostButton link="https://phuquoc.me/products/nick-facebook-full-5000-friends-100k" label="đặt mua nick facebook 5000 friends" />
 
 
 
