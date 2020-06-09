@@ -18,6 +18,12 @@
         </saber-link>
       </nav>
       <div class="frame-area-b">
+      <style>#M592673ScriptRootC924624 {min-height: 300px;}</style>
+<!-- Composite Start -->
+<div id="M592673ScriptRootC924624">
+</div>
+<script src="https://jsc.mgid.com/p/h/phusa.me.924624.js" async></script>
+<!-- Composite End -->
         <h1 class="Heading Heading-4xl font-medium" :class="headingInvertStyle">
           {{ page.title }}
         </h1>
