@@ -42,7 +42,7 @@ export default {
     about: "Để liên lạc với Tiếp nhanh chóng hãy gọi điện thoại:",
     signup: "Để kết bạn, chơi với nhau lâu dài và nhận giá ưu đãi đăng ký:",
     contact: {
-      email: "Psm@phusa.me",
+      email: "Psm@gaac.me",
       phone: "(033) 703-6819",
     },
   }),

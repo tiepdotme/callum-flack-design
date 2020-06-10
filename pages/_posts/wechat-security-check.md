@@ -50,8 +50,8 @@ Chi tiết về giá tài khoản wechat, phương thức thanh toán đều có
 mọi chi tiết xin liên hệ zalo 0337036819
 Hoặc quét mã QR zalo của Psm
 
-Website phusa.me
-Email Psm@phusa.me
+Website gaac.me
+Email Psm@gaac.me
 
 Psm sẽ ghi chú lại nếu thêm nội dung được cập nhật và có ghi rõ ràng ngày giờ cập nhật {.Note}
 

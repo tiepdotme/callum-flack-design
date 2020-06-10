@@ -18,14 +18,6 @@
         </saber-link>
       </nav>
       <div class="frame-area-b">
-      <!-- code mgid -->
-      <style>#M592673ScriptRootC924624 {min-height: 300px;}</style>
-<!-- Composite Start -->
-<div id="M592673ScriptRootC924624">
-</div>
-<script src="https://jsc.mgid.com/p/h/phusa.me.924624.js" async></script>
-<!-- Composite End -->
-<!-- code mgid -->
         <h1 class="Heading Heading-4xl font-medium" :class="headingInvertStyle">
           {{ page.title }}
         </h1>
@@ -51,7 +43,7 @@
           </template>
           <template v-if="$route.path === '/'"> 
             <saber-link to="https://phusame.myshopify.com" class="Link text-brand-red">
-    <img src="https://phusa.me/images/shop_link.png" alt="Shop của Psm" />
+    <img src="https://gaac.me/images/shop_link.png" alt="Shop của Psm" />
   </saber-link>
           </template>
         </p>

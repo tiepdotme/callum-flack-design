@@ -25,7 +25,7 @@ trước khi export bộ theme mới nhất được thiết kế trong mode dev
 
 ---
 
-Hiện tại thì, đây là Shop chủ yếu trưng bày sản phẩm tương tự Shopee của Psm, và Phusa.me nhưng lại là platform hỗ trợ cả đặt hàng thông qua COD nên tạm thời càng hiện diện càng nhiều càng tốt nên mình để dùng luôn.
+Hiện tại thì, đây là Shop chủ yếu trưng bày sản phẩm tương tự Shopee của Psm, và gaac.me nhưng lại là platform hỗ trợ cả đặt hàng thông qua COD nên tạm thời càng hiện diện càng nhiều càng tốt nên mình để dùng luôn.
 
 <Media ratio="668/1000" image="/images/psm_theme_new.jpg"/>
 

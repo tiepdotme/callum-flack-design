@@ -33,7 +33,7 @@ Thay đổi phong cách thiết kế
 
 Điện thoại iPhone 8 kết hợp giữa những đường nét đã làm nên chuẩn mực, thương hiệu với sự thời thượng và hiện đại của mặt lưng phủ kính cường lực thay vì nguyên khối kim loại. Điểm thiết kế này mang lại độ bóng bẩy, đẹp mắt hơn cho sản phẩm.
 
-Tìm hiểu thêm về nhóm yêu thích iphone 8 giống bạn tại phusa.me và trên các nhóm Facebook group.
+Tìm hiểu thêm về nhóm yêu thích iphone 8 giống bạn tại gaac.me và trên các nhóm Facebook group.
 
 <MediaYoutube src="B4bt3z_uJZE" ratio="540/768" frame />
 

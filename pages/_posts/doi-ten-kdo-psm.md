@@ -32,15 +32,15 @@ kdoadvertising@gmail.com
 - - -
 Các email ở trên đều không thể phục hồi cũng như truy cập lại đồng nghĩa toàn bộ dữ liệu công việc cũ đã mất, KdO thay đổi logo thành easy glasses girl nhận diện, và sử dụng email
 phusame@gmail.com
-Psm@phusa.me
+Psm@gaac.me
 Làm email chủ lực cho công việc và trao đổi giữa KdO và khách hàng.
 
 Thực hiện chuyển đổi KdO thành Phù sa mẹ, tên gọi, logo. Địa chỉ chính Sử dụng trước đây kadao.me thường hay nhầm lẫn với cadao.me do đó, khi dành thời gian đi bến tre ngắm cảnh, giao lưu con người nơi đây, chợt nhận ra tầm quan trọng của phù sa, và hành trình trên đất phù sa đã đến mang theo những mối quan hệ, ân cần, quan tâm, và sẻ chia từ những người bạn.
 
 Do đó, **KdO** quyết định từ bỏ tên thương hiệu cũ để chuyển giao lại khách hàng và thu về quỹ vốn cần thiết để tái thiết lập nên “**phù sa mẹ**” viết tắt là **Psm** Agency Advertising.
-địa chỉ sử dụng office https://phusa.me
+địa chỉ sử dụng office https://gaac.me
 
-Hiện tại, **Psm** đang cân nhắc sử dụng rmail và domain chính thức dạng kiểu PsmAgency.me hoặc phusa.me Psm sử dụng như một dạng viết tắt của domain.
+Hiện tại, **Psm** đang cân nhắc sử dụng rmail và domain chính thức dạng kiểu PsmAgency.me hoặc gaac.me Psm sử dụng như một dạng viết tắt của domain.
 
 
 

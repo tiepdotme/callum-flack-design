@@ -84,7 +84,7 @@ export default {
       lede:
         "Tiếp (Psm) chuyên tạo tài khoản kể từ năm 2006 đã có duyên gắn bó với nghề và đi lên bằng bán tài khoản download, sau này khi PTU đã không còn ở đỉnh điểm của chú ý, mình rẽ hướng sang AdSense, muốn tạo ra các tài khoản giúp các bạn có thêm phương án làm việc tại nhà đảm bảo nguồn thu cho gia đình riêng.",
       contacts: {
-        email: "Psm@phusa.me",
+        email: "Psm@gaac.me",
         phone: "(033) 703-6819",
         linkedin: "psmagency",
         facebook: "psmwork",
@@ -97,7 +97,7 @@ export default {
       lede:
         "Kế thừa và phát triển Psm trở nên lớn mạnh và đa dạng hơn tương tự như một Agency đích thực.",
       contacts: {
-        email: "tiep@phusa.me",
+        email: "tiep@gaac.me",
         facebook: "tiepmatkieng",
       },
     },
