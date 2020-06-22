@@ -18,6 +18,7 @@
         </saber-link>
       </nav>
       <div class="frame-area-b">
+      <script type="application/javascript" data-idzone="3900720" src="https://a.realsrv.com/nativeads.js" ></script>
         <h1 class="Heading Heading-4xl font-medium" :class="headingInvertStyle">
           {{ page.title }}
         </h1>
